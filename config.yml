@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://fagkom.github.io/"
 title: Oppgavearkiv
 paginate: 10
 theme: PaperMod

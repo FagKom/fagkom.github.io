@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Representasjonsteori on Oppgavearkiv</title>
-    <link>/tags/representasjonsteori/</link>
+    <link>https://fagkom.github.io/tags/representasjonsteori/</link>
     <description>Recent content in Representasjonsteori on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/representasjonsteori/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/representasjonsteori/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jacob Fjeld Grevstad</title>
-      <link>/posts/algebra/grevstad-jacob-2/</link>
+      <link>https://fagkom.github.io/posts/algebra/grevstad-jacob-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/algebra/grevstad-jacob-2/</guid>
+      <guid>https://fagkom.github.io/posts/algebra/grevstad-jacob-2/</guid>
       <description>Finitistic dimension conjecture</description>
     </item>
     
     <item>
       <title>Jacob Fjeld Grevstad</title>
-      <link>/posts/algebra/grevstad-jacob-1/</link>
+      <link>https://fagkom.github.io/posts/algebra/grevstad-jacob-1/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/algebra/grevstad-jacob-1/</guid>
+      <guid>https://fagkom.github.io/posts/algebra/grevstad-jacob-1/</guid>
       <description>McKay correspondence</description>
     </item>
     

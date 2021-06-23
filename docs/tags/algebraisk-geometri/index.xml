@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Algebraisk geometri on Oppgavearkiv</title>
-    <link>/tags/algebraisk-geometri/</link>
+    <link>https://fagkom.github.io/tags/algebraisk-geometri/</link>
     <description>Recent content in Algebraisk geometri on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/tags/algebraisk-geometri/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/algebraisk-geometri/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Torgeir Aambø</title>
-      <link>/posts/topologi/aamboe-torgeir-1/</link>
+      <link>https://fagkom.github.io/posts/topologi/aamboe-torgeir-1/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/posts/topologi/aamboe-torgeir-1/</guid>
+      <guid>https://fagkom.github.io/posts/topologi/aamboe-torgeir-1/</guid>
       <description>Naive homotopy theory for schemes</description>
     </item>
     

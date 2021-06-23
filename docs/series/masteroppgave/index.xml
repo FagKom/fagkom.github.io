@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Masteroppgave on Oppgavearkiv</title>
-    <link>/series/masteroppgave/</link>
+    <link>https://fagkom.github.io/series/masteroppgave/</link>
     <description>Recent content in Masteroppgave on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/masteroppgave/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/series/masteroppgave/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jacob Fjeld Grevstad</title>
-      <link>/posts/algebra/grevstad-jacob-2/</link>
+      <link>https://fagkom.github.io/posts/algebra/grevstad-jacob-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/algebra/grevstad-jacob-2/</guid>
+      <guid>https://fagkom.github.io/posts/algebra/grevstad-jacob-2/</guid>
       <description>Finitistic dimension conjecture</description>
     </item>
     
     <item>
       <title>Torgeir Aambø</title>
-      <link>/posts/topologi/aamboe-torgeir-2/</link>
+      <link>https://fagkom.github.io/posts/topologi/aamboe-torgeir-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/posts/topologi/aamboe-torgeir-2/</guid>
+      <guid>https://fagkom.github.io/posts/topologi/aamboe-torgeir-2/</guid>
       <description>On formal DG-algebras</description>
     </item>
     

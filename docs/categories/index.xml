@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Oppgavearkiv</title>
-    <link>/categories/</link>
+    <link>https://fagkom.github.io/categories/</link>
     <description>Recent content in Categories on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Algebra</title>
-      <link>/categories/algebra/</link>
+      <link>https://fagkom.github.io/categories/algebra/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/algebra/</guid>
+      <guid>https://fagkom.github.io/categories/algebra/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Topologi</title>
-      <link>/categories/topologi/</link>
+      <link>https://fagkom.github.io/categories/topologi/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/categories/topologi/</guid>
+      <guid>https://fagkom.github.io/categories/topologi/</guid>
       <description></description>
     </item>
     

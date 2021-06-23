@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Oppgavearkiv</title>
-    <link>/series/</link>
+    <link>https://fagkom.github.io/series/</link>
     <description>Recent content in Series on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Masteroppgave</title>
-      <link>/series/masteroppgave/</link>
+      <link>https://fagkom.github.io/series/masteroppgave/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/series/masteroppgave/</guid>
+      <guid>https://fagkom.github.io/series/masteroppgave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matematikk</title>
-      <link>/series/matematikk/</link>
+      <link>https://fagkom.github.io/series/matematikk/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/series/matematikk/</guid>
+      <guid>https://fagkom.github.io/series/matematikk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bacheloroppgave</title>
-      <link>/series/bacheloroppgave/</link>
+      <link>https://fagkom.github.io/series/bacheloroppgave/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/series/bacheloroppgave/</guid>
+      <guid>https://fagkom.github.io/series/bacheloroppgave/</guid>
       <description></description>
     </item>
     
