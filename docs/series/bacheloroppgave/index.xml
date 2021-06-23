@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bacheloroppgave on Oppgavearkiv</title>
+    <link>/series/bacheloroppgave/</link>
+    <description>Recent content in Bacheloroppgave on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="/series/bacheloroppgave/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jacob Fjeld Grevstad</title>
+      <link>/posts/algebra/grevstad-jacob-1/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/algebra/grevstad-jacob-1/</guid>
+      <description>McKay correspondence</description>
+    </item>
+    
+    <item>
+      <title>Torgeir Aambø</title>
+      <link>/posts/topologi/aamboe-torgeir-1/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/topologi/aamboe-torgeir-1/</guid>
+      <description>Naive homotopy theory for schemes</description>
+    </item>
+    
+  </channel>
+</rss>

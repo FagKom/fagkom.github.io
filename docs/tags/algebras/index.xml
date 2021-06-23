@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Algebras on Writing what I&#39;m learning</title>
+    <link>https://torgeiraamboe.github.io/tags/algebras/</link>
+    <description>Recent content in Algebras on Writing what I&#39;m learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://torgeiraamboe.github.io/tags/algebras/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated geometric intuition</title>
+      <link>https://torgeiraamboe.github.io/posts/2021/updated-geometric-intuition/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://torgeiraamboe.github.io/posts/2021/updated-geometric-intuition/</guid>
+      <description>The first post on this blog is titled &amp;ldquo;geometric intuition&amp;rdquo;, and discusses the geometry behind Noether&amp;rsquo;s normalization lemma. When I wrote it I didn&amp;rsquo;t yet understand all the pieces, as I was not very comfortable working with algebraic geometry. One year later, I&amp;rsquo;m still not comfortable, but a bit more than last year. So, I thought I would update last years post with my new knowledge, as well as generalize the intuition to schemes - which we introduced in the last post.</description>
+    </item>
+    
+    <item>
+      <title>Schemes</title>
+      <link>https://torgeiraamboe.github.io/posts/2021/schemes/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://torgeiraamboe.github.io/posts/2021/schemes/</guid>
+      <description>The first two posts ([1],[2]) I ever did on this blog - now over a year ago - were posts about algebraic geometry. In particular we explored the geometric implications of some of the algebraic results I was learning in my commutative algebra class. Last summer I also wrote a post about sheaves, and left it off by claiming to soon write about schemes. If you scroll through the blog we have covered a bunch of different topics, but the blog post on schemes, seems to have fallen through the cracks.</description>
+    </item>
+    
+    <item>
+      <title>Homotopy Associative Algebraic Product</title>
+      <link>https://torgeiraamboe.github.io/posts/2021/the-associating-homotopy/</link>
+      <pubDate>Sat, 03 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://torgeiraamboe.github.io/posts/2021/the-associating-homotopy/</guid>
+      <description>In the two last posts we have been discussing operations that are associative up to homotopy, and where such operations might arise naturally in topology. One claim I made, which I later realized was maybe a bit unmotivated and in need of some clarification was how some higher arity maps actually defined (or were defined by) homotopies between combinations of the lower arity maps. We also purely looked at this in a topological setting, but in algebraic topology we often translate to algebraic structures, so I also wanted to see clearly that the same constructions hold in that setting.</description>
+    </item>
+    
+    <item>
+      <title>A Lecture in My Second Year</title>
+      <link>https://torgeiraamboe.github.io/posts/2021/a-leqture-in-my-second-year/</link>
+      <pubDate>Tue, 19 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://torgeiraamboe.github.io/posts/2021/a-leqture-in-my-second-year/</guid>
+      <description>For those that don’t know I am a fifth year mathematics student at NTNU, meaning I am finishing my masters degree after this semester. During my time at NTNU I have had some wonderful classes, and some wonderful teachers. Since most I post about on this blog is related to topology, it is very safe to assume that some of my most memorable courses are exactly the topology courses. I very recently looked at my notes from my first topology course, or rather one of the two first, as I took two in parallel during my fourth semester.</description>
+    </item>
+    
+    <item>
+      <title>Under Category</title>
+      <link>https://torgeiraamboe.github.io/posts/2020/under-category/</link>
+      <pubDate>Tue, 08 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://torgeiraamboe.github.io/posts/2020/under-category/</guid>
+      <description>Since one of my main mathematical interests is homotopy theory, im bound to often bump into things that require the use of base-points. This has long been the classical way to study spaces, especially in terms of homotopy groups. When I was introduced to these so-called pointed spaces, I couldn’t help but feel that these we less natural, or more ad hoc, than regular spaces. I didn’t know much about categories then, but have since learned it is usually in this context that some form of naturality occur.</description>
+    </item>
+    
+  </channel>
+</rss>
