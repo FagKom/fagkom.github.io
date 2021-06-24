@@ -30,20 +30,23 @@ outputs:
 menu:
     main:   
       - name: Fagfelt
-        url: categories/
+        url: fagfelt/
         weight: 5
-      - name: Type
-        url: series/
+      - name: Oppgavetype
+        url: oppgavetype/
         weight: 10        
       - name: Tags
         url: tags/
         weight: 15          
-      - name: Archive
+      - name: Arkiv
         url: archives/
-        weight: 20    
-      - name: Search
+        weight: 20
+      - name: Om oss
+        url: about/
+        weight: 20             
+      - name: Søk
         url: search/
-        weight: 25
+        weight: 30
 
 
 
@@ -69,22 +72,21 @@ params:
     # comments: true
     # images: ["papermod-cover.png"]
 
-    #profileMode:
-    #      enabled: false
-    #      title: Torgeir Aambø
-    #      imageUrl: "0torgeir-1.png"
-    #      imageTitle: my image
-    #      imageWidth: 265
-    #      imageHeight: 310
-    #      subtitle: "Master student in mathematics"
+    homeInfoParams:
+        Title: Hei!
+        Content: >
+            Velkommen til FagKoms oppgavearkiv. 
+             * For mer info om arkivet, samt hvordan man kan bidra, se siden "om oss" i menyen. 
 
     socialIcons:
-        - name: LinkedIn
-          url: "https://www.linkedin.com/in/torgeir-aamb%C3%B8/"
-        - name: Email
-          url: "mailto:torgeiraamboe@gmail.com"
+        - name: Facebook
+          url: "https://www.facebook.com/DeltaFagKom"
         - name: github
-          url: "https://github.com/torgeiraamboe"        
+          url: "https://github.com/fagkom"
+        - name: Email
+          url: "mailto:delta.fagsjef@gmail.com"
+        - name: buymeacoffee
+          url: "https://www.buymeacoffee.com/aamboe"                  
 
 
     # label:
@@ -114,9 +116,10 @@ params:
     #     keys: ["title", "permalink", "summary", "content"]
 
 taxonomies:
-    category: categories
+    fagfelt: fagfelt
     tag: tags
-    series: series
+    oppgavetype: oppgavetype
+    veileder: veileder
 
 markup:
      goldmark:

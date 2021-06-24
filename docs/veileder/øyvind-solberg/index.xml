@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Øyvind Solberg on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/%C3%B8yvind-solberg/</link>
+    <description>Recent content in Øyvind Solberg on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/%C3%B8yvind-solberg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jacob Fjeld Grevstad</title>
+      <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/grevstad-jacob-2/</guid>
+      <description>Finitistic dimension conjecture</description>
+    </item>
+    
+    <item>
+      <title>Didrik Fosse</title>
+      <link>https://fagkom.github.io/posts/fosse-didrik/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fosse-didrik/</guid>
+      <description>Finding homomorphisms between representations of a quiver</description>
+    </item>
+    
+  </channel>
+</rss>

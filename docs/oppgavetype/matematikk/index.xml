@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matematikk on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/oppgavetype/matematikk/</link>
+    <description>Recent content in Matematikk on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/matematikk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jacob Fjeld Grevstad</title>
+      <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/grevstad-jacob-2/</guid>
+      <description>Finitistic dimension conjecture</description>
+    </item>
+    
+    <item>
+      <title>Torgeir Aambø</title>
+      <link>https://fagkom.github.io/posts/aamboe-torgeir-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/aamboe-torgeir-2/</guid>
+      <description>On formal DG-algebras</description>
+    </item>
+    
+    <item>
+      <title>Elias Klakken Angelsen</title>
+      <link>https://fagkom.github.io/posts/angelsen-elias/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/angelsen-elias/</guid>
+      <description>The K-theory and Morita equivalence classes of noncommutative tori</description>
+    </item>
+    
+    <item>
+      <title>Andreas Palm Sivertsen</title>
+      <link>https://fagkom.github.io/posts/sivertsen-andreas/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sivertsen-andreas/</guid>
+      <description>Introduction to commutative ring theory, from localization to complete intersections</description>
+    </item>
+    
+    <item>
+      <title>Arta Hamiti</title>
+      <link>https://fagkom.github.io/posts/hamiti-arta/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hamiti-arta/</guid>
+      <description>An introduction to abelian categories</description>
+    </item>
+    
+    <item>
+      <title>Jacob Fjeld Grevstad</title>
+      <link>https://fagkom.github.io/posts/grevstad-jacob/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/grevstad-jacob/</guid>
+      <description>McKay correspondence</description>
+    </item>
+    
+    <item>
+      <title>Torgeir Aambø</title>
+      <link>https://fagkom.github.io/posts/aamboe-torgeir/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/aamboe-torgeir/</guid>
+      <description>Naive homotopy theory for schemes</description>
+    </item>
+    
+    <item>
+      <title>Didrik Fosse</title>
+      <link>https://fagkom.github.io/posts/fosse-didrik/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fosse-didrik/</guid>
+      <description>Finding homomorphisms between representations of a quiver</description>
+    </item>
+    
+  </channel>
+</rss>
