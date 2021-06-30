@@ -1,6 +1,6 @@
 ---
 title: "Karl Kristian Ladegård Lockert"
-date: 2019-06-15
+date: 2021-06-15
 draft: false
 oppgavetype: ["Masteroppgave", "Fysikk"]
 fagfelt: ["Faststoff"]

@@ -6,7 +6,16 @@
     <description>Recent content in Veileder on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asle Sudbø</title>
+      <link>https://fagkom.github.io/veileder/asle-sudb%C3%B8/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/asle-sudb%C3%B8/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Gereon Quick</title>
       <link>https://fagkom.github.io/veileder/gereon-quick/</link>
@@ -37,9 +46,27 @@
     <item>
       <title>Peder Thompson</title>
       <link>https://fagkom.github.io/veileder/peder-thompson/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/peder-thompson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rune Haugseng</title>
+      <link>https://fagkom.github.io/veileder/rune-haugseng/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/rune-haugseng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sverre Smalø</title>
+      <link>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</guid>
       <description></description>
     </item>
     

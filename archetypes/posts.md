@@ -16,3 +16,4 @@ summary: "Oppgavens tittel"
 
 **Sammendrag:** Oppgavens sammendrag
 
+<iframe src="drive link/preview" width="700" height="980" allow="autoplay"></iframe>

@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Karl Kristian Ladegård Lockert</title>
+      <link>https://fagkom.github.io/posts/lockert-karl/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lockert-karl/</guid>
+      <description>Phonon coupled Luttinger liquids in a Haldane armchair nanoribbon</description>
+    </item>
+    
     <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
@@ -26,6 +35,24 @@
     </item>
     
     <item>
+      <title>Andreas Palm Sivertsen</title>
+      <link>https://fagkom.github.io/posts/sivertsen-andreas/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sivertsen-andreas/</guid>
+      <description>Introduction to commutative ring theory, from localization to complete intersections</description>
+    </item>
+    
+    <item>
+      <title>Andreassen Eirik</title>
+      <link>https://fagkom.github.io/posts/andreassen-eirik/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/andreassen-eirik/</guid>
+      <description>Til evigheten, og forbi: En kort historie om uendelighet fortalt i ZF</description>
+    </item>
+    
+    <item>
       <title>Elias Klakken Angelsen</title>
       <link>https://fagkom.github.io/posts/angelsen-elias/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -35,12 +62,12 @@
     </item>
     
     <item>
-      <title>Andreas Palm Sivertsen</title>
-      <link>https://fagkom.github.io/posts/sivertsen-andreas/</link>
-      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <title>Preben Hast Sørli</title>
+      <link>https://fagkom.github.io/posts/sorli-preben/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/sivertsen-andreas/</guid>
-      <description>Introduction to commutative ring theory, from localization to complete intersections</description>
+      <guid>https://fagkom.github.io/posts/sorli-preben/</guid>
+      <description>Sheaf cohomology and duality</description>
     </item>
     
     <item>

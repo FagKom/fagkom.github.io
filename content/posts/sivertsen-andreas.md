@@ -1,6 +1,6 @@
 ---
 title: "Andreas Palm Sivertsen"
-date: 2021-05-01
+date: 2021-05-20
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Algebra"]

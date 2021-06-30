@@ -2,13 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://fagkom.github.io/veileder/asle-sudb%C3%B8/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/fagfelt/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/fagfelt/faststoff/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/oppgavetype/fysikk/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/lockert-karl/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/kvantefysikk/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/mangepartikkelfysikk/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/oppgavetype/masteroppgave/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/oppgavetype/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/topologiske-isolatorer/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/</loc>
+    <lastmod>2021-06-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/fagfelt/algebra/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/algebraisk-topologi/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/fagfelt/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/gereon-quick/</loc>
@@ -23,25 +62,10 @@
     <loc>https://fagkom.github.io/posts/grevstad-jacob-2/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/oppgavetype/masteroppgave/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fagkom.github.io/oppgavetype/matematikk/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/oppgavetype/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/posts/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fagkom.github.io/tags/representasjonsteori/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/tags/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/fagfelt/topologi/</loc>
@@ -50,13 +74,16 @@
     <loc>https://fagkom.github.io/posts/aamboe-torgeir-2/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/veileder/</loc>
-    <lastmod>2021-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fagkom.github.io/veileder/%C3%B8yvind-solberg/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/fagfelt/analyse/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/sivertsen-andreas/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/andreassen-eirik/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/oppgavetype/bacheloroppgave/</loc>
@@ -74,14 +101,29 @@
     <loc>https://fagkom.github.io/tags/k-teori/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/posts/sivertsen-andreas/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <loc>https://fagkom.github.io/tags/kohomologiteori-knippeteori/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/kommutativ-algebra/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/mengdel%C3%A6re/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/peder-thompson/</loc>
-    <lastmod>2021-05-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/sorli-preben/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/rune-haugseng/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/zfc/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/algebraisk-geometri/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
