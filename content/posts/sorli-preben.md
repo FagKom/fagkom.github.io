@@ -4,7 +4,7 @@ date: 2021-05-20
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Topologi"]
-tags: ["Kohomologiteori, Knippeteori"]
+tags: ["Kohomologiteori", "Knippeteori"]
 veileder: ["Rune Haugseng"]
 math: true 
 summary: "Sheaf cohomology and duality"

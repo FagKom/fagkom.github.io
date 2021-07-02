@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elliptiske kurver on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/elliptiske-kurver/</link>
+    <description>Recent content in Elliptiske kurver on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/elliptiske-kurver/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ole Martin Edstrøm</title>
+      <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
+      <description>Elliptiske kurver over de rasjonale tallene</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen/</guid>
+      <description>Kryptografi basert på isogenier mellom elliptiske kurver</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
+      <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+  </channel>
+</rss>

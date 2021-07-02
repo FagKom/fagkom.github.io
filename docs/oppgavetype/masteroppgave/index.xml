@@ -34,5 +34,14 @@
       <description>On formal DG-algebras</description>
     </item>
     
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus-2/</guid>
+      <description>WalnutDSA: Another attempt at braid group cryptography</description>
+    </item>
+    
   </channel>
 </rss>

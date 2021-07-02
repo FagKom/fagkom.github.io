@@ -16,5 +16,32 @@
       <description>An introduction to abelian categories</description>
     </item>
     
+    <item>
+      <title>Kristina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-kristina/</guid>
+      <description>Wedderburns teorem</description>
+    </item>
+    
+    <item>
+      <title>Ole Berre</title>
+      <link>https://fagkom.github.io/posts/berre-ole/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/berre-ole/</guid>
+      <description>On the tensor product, and defining Tor^R_n (-, N)</description>
+    </item>
+    
+    <item>
+      <title>Sigurd Jordal</title>
+      <link>https://fagkom.github.io/posts/jordal-sigurd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/jordal-sigurd/</guid>
+      <description>On finite simple groups</description>
+    </item>
+    
   </channel>
 </rss>

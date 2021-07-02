@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Øystein Skarsæterhagen on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/%C3%B8ystein-skars%C3%A6terhagen/</link>
+    <description>Recent content in Øystein Skarsæterhagen on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/%C3%B8ystein-skars%C3%A6terhagen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kristoffer Brakstad</title>
+      <link>https://fagkom.github.io/posts/brakstad-kristoffer/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/brakstad-kristoffer/</guid>
+      <description>The Mathieu eleven group is a sporadic finite simple group</description>
+    </item>
+    
+  </channel>
+</rss>

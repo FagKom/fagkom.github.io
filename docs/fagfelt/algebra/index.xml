@@ -35,6 +35,24 @@
     </item>
     
     <item>
+      <title>Johan Vik Mathisen</title>
+      <link>https://fagkom.github.io/posts/mathisen-johan/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/mathisen-johan/</guid>
+      <description>An introduction to triangulated categories via the stable category of a Frobenius category</description>
+    </item>
+    
+    <item>
+      <title>Ole Martin Edstrøm</title>
+      <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
+      <description>Elliptiske kurver over de rasjonale tallene</description>
+    </item>
+    
+    <item>
       <title>Arta Hamiti</title>
       <link>https://fagkom.github.io/posts/hamiti-arta/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -53,12 +71,120 @@
     </item>
     
     <item>
+      <title>Jacob Sjødin</title>
+      <link>https://fagkom.github.io/posts/sjodin-jacob/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjodin-jacob/</guid>
+      <description>Constructing the Leech lattice through the extended Golay code</description>
+    </item>
+    
+    <item>
+      <title>Jens Erik Kveen</title>
+      <link>https://fagkom.github.io/posts/kveen-jens/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kveen-jens/</guid>
+      <description>Algebraens fundamentalteorem</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen/</guid>
+      <description>Kryptografi basert på isogenier mellom elliptiske kurver</description>
+    </item>
+    
+    <item>
+      <title>Kamilla Weka</title>
+      <link>https://fagkom.github.io/posts/weka-kamilla/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/weka-kamilla/</guid>
+      <description>The 17 Wallpaper Groups</description>
+    </item>
+    
+    <item>
+      <title>Kristina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-kristina/</guid>
+      <description>Wedderburns teorem</description>
+    </item>
+    
+    <item>
+      <title>Kristoffer Brakstad</title>
+      <link>https://fagkom.github.io/posts/brakstad-kristoffer/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/brakstad-kristoffer/</guid>
+      <description>The Mathieu eleven group is a sporadic finite simple group</description>
+    </item>
+    
+    <item>
+      <title>Lars Sæle</title>
+      <link>https://fagkom.github.io/posts/saele-lars/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/saele-lars/</guid>
+      <description>Tapetgrupper</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus-2/</guid>
+      <description>WalnutDSA: Another attempt at braid group cryptography</description>
+    </item>
+    
+    <item>
+      <title>Ole Berre</title>
+      <link>https://fagkom.github.io/posts/berre-ole/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/berre-ole/</guid>
+      <description>On the tensor product, and defining Tor^R_n (-, N)</description>
+    </item>
+    
+    <item>
+      <title>Sigurd Jordal</title>
+      <link>https://fagkom.github.io/posts/jordal-sigurd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/jordal-sigurd/</guid>
+      <description>On finite simple groups</description>
+    </item>
+    
+    <item>
+      <title>Viktor Balch Barth</title>
+      <link>https://fagkom.github.io/posts/barth-viktor/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/barth-viktor/</guid>
+      <description>p-adiske tall</description>
+    </item>
+    
+    <item>
       <title>Didrik Fosse</title>
       <link>https://fagkom.github.io/posts/fosse-didrik/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/fosse-didrik/</guid>
       <description>Finding homomorphisms between representations of a quiver</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
+      <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
     </item>
     
   </channel>

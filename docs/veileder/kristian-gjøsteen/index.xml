@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kristian Gjøsteen on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</link>
+    <description>Recent content in Kristian Gjøsteen on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen/</guid>
+      <description>Kryptografi basert på isogenier mellom elliptiske kurver</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus-2/</guid>
+      <description>WalnutDSA: Another attempt at braid group cryptography</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
+      <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+  </channel>
+</rss>
