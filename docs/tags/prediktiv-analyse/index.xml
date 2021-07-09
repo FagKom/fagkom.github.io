@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prediktiv analyse on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/prediktiv-analyse/</link>
+    <description>Recent content in Prediktiv analyse on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 07 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/prediktiv-analyse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filip Schjerven</title>
+      <link>https://fagkom.github.io/posts/schjerven-filip/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/schjerven-filip/</guid>
+      <description>Predictive analysis of a Gaussian random field</description>
+    </item>
+    
+  </channel>
+</rss>

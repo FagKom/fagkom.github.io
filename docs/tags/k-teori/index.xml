@@ -16,5 +16,14 @@
       <description>The K-theory and Morita equivalence classes of noncommutative tori</description>
     </item>
     
+    <item>
+      <title>Sigurd Gaukstad</title>
+      <link>https://fagkom.github.io/posts/gaukstad-sigurd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/gaukstad-sigurd/</guid>
+      <description>Bott periodicity via simplicial spaces and its application to K-theory</description>
+    </item>
+    
   </channel>
 </rss>

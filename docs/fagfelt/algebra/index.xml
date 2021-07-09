@@ -36,10 +36,10 @@
     
     <item>
       <title>Johan Vik Mathisen</title>
-      <link>https://fagkom.github.io/posts/mathisen-johan/</link>
+      <link>https://fagkom.github.io/posts/mathisen-johan-vik/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/mathisen-johan/</guid>
+      <guid>https://fagkom.github.io/posts/mathisen-johan-vik/</guid>
       <description>An introduction to triangulated categories via the stable category of a Frobenius category</description>
     </item>
     
@@ -104,6 +104,15 @@
       
       <guid>https://fagkom.github.io/posts/weka-kamilla/</guid>
       <description>The 17 Wallpaper Groups</description>
+    </item>
+    
+    <item>
+      <title>Katrine Johansen</title>
+      <link>https://fagkom.github.io/posts/johansen-katrine/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johansen-katrine/</guid>
+      <description>???</description>
     </item>
     
     <item>
@@ -176,6 +185,15 @@
       
       <guid>https://fagkom.github.io/posts/fosse-didrik/</guid>
       <description>Finding homomorphisms between representations of a quiver</description>
+    </item>
+    
+    <item>
+      <title>Eiolf Kaspersen</title>
+      <link>https://fagkom.github.io/posts/kaspersen-eiolf/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kaspersen-eiolf/</guid>
+      <description>Eksakte kategorier</description>
     </item>
     
     <item>

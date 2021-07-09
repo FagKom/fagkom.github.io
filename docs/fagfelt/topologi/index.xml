@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Even Aslaksen</title>
+      <link>https://fagkom.github.io/posts/aslaksen-even/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/aslaksen-even/</guid>
+      <description>Modads, algebras and descent theory</description>
+    </item>
+    
+    <item>
       <title>Preben Hast Sørli</title>
       <link>https://fagkom.github.io/posts/sorli-preben/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -26,12 +35,48 @@
     </item>
     
     <item>
+      <title>Anders Alexander andersen</title>
+      <link>https://fagkom.github.io/posts/andersen-anders-alexander/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/andersen-anders-alexander/</guid>
+      <description>Cobordism theory: An introduction to topological pants</description>
+    </item>
+    
+    <item>
+      <title>Sigurd Gaukstad</title>
+      <link>https://fagkom.github.io/posts/gaukstad-sigurd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/gaukstad-sigurd/</guid>
+      <description>Bott periodicity via simplicial spaces and its application to K-theory</description>
+    </item>
+    
+    <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre/</guid>
+      <description>Knot quandles</description>
+    </item>
+    
+    <item>
       <title>Torgeir Aambø</title>
       <link>https://fagkom.github.io/posts/aamboe-torgeir/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/aamboe-torgeir/</guid>
       <description>Naive homotopy theory for schemes</description>
+    </item>
+    
+    <item>
+      <title>Peter Marius Flydal</title>
+      <link>https://fagkom.github.io/posts/flydal-peter-marius/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
+      <description>The model category of simplicial groups is left proper</description>
     </item>
     
   </channel>

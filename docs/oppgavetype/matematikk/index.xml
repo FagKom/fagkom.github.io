@@ -53,11 +53,20 @@
     </item>
     
     <item>
-      <title>Johan Vik Mathisen</title>
-      <link>https://fagkom.github.io/posts/mathisen-johan/</link>
+      <title>Even Aslaksen</title>
+      <link>https://fagkom.github.io/posts/aslaksen-even/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/mathisen-johan/</guid>
+      <guid>https://fagkom.github.io/posts/aslaksen-even/</guid>
+      <description>Modads, algebras and descent theory</description>
+    </item>
+    
+    <item>
+      <title>Johan Vik Mathisen</title>
+      <link>https://fagkom.github.io/posts/mathisen-johan-vik/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/mathisen-johan-vik/</guid>
       <description>An introduction to triangulated categories via the stable category of a Frobenius category</description>
     </item>
     
@@ -71,21 +80,39 @@
     </item>
     
     <item>
-      <title>Sarah May Instanes</title>
-      <link>https://fagkom.github.io/posts/instanes-sarah/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/instanes-sarah/</guid>
-      <description>Faktorisering i Hardy-rom</description>
-    </item>
-    
-    <item>
       <title>Ole Martin Edstrøm</title>
       <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
       <description>Elliptiske kurver over de rasjonale tallene</description>
+    </item>
+    
+    <item>
+      <title>Andreas Matre</title>
+      <link>https://fagkom.github.io/posts/matre-andreas/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/matre-andreas/</guid>
+      <description>Linear regression for survey data</description>
+    </item>
+    
+    <item>
+      <title>Sarah May Instanes</title>
+      <link>https://fagkom.github.io/posts/instanes-sarah/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/instanes-sarah/</guid>
+      <description>Faktorisering i Hardy-rom</description>
+    </item>
+    
+    <item>
+      <title>Anders Alexander andersen</title>
+      <link>https://fagkom.github.io/posts/andersen-anders-alexander/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/andersen-anders-alexander/</guid>
+      <description>Cobordism theory: An introduction to topological pants</description>
     </item>
     
     <item>
@@ -143,6 +170,15 @@
     </item>
     
     <item>
+      <title>Katrine Johansen</title>
+      <link>https://fagkom.github.io/posts/johansen-katrine/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johansen-katrine/</guid>
+      <description>???</description>
+    </item>
+    
+    <item>
       <title>Kristina Sjøborg</title>
       <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -188,12 +224,30 @@
     </item>
     
     <item>
+      <title>Sigurd Gaukstad</title>
+      <link>https://fagkom.github.io/posts/gaukstad-sigurd/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/gaukstad-sigurd/</guid>
+      <description>Bott periodicity via simplicial spaces and its application to K-theory</description>
+    </item>
+    
+    <item>
       <title>Sigurd Jordal</title>
       <link>https://fagkom.github.io/posts/jordal-sigurd/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/jordal-sigurd/</guid>
       <description>On finite simple groups</description>
+    </item>
+    
+    <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre/</guid>
+      <description>Knot quandles</description>
     </item>
     
     <item>
@@ -215,6 +269,24 @@
     </item>
     
     <item>
+      <title>Emma Sofie Skarstein</title>
+      <link>https://fagkom.github.io/posts/skarstein-emma-sofie/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/skarstein-emma-sofie/</guid>
+      <description>The EM algorithm and some applications in population genetics</description>
+    </item>
+    
+    <item>
+      <title>Filip Schjerven</title>
+      <link>https://fagkom.github.io/posts/schjerven-filip/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/schjerven-filip/</guid>
+      <description>Predictive analysis of a Gaussian random field</description>
+    </item>
+    
+    <item>
       <title>Didrik Fosse</title>
       <link>https://fagkom.github.io/posts/fosse-didrik/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
@@ -224,12 +296,39 @@
     </item>
     
     <item>
+      <title>Eiolf Kaspersen</title>
+      <link>https://fagkom.github.io/posts/kaspersen-eiolf/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kaspersen-eiolf/</guid>
+      <description>Eksakte kategorier</description>
+    </item>
+    
+    <item>
       <title>Magnus Ringerud</title>
       <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
       <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+    <item>
+      <title>Peter Marius Flydal</title>
+      <link>https://fagkom.github.io/posts/flydal-peter-marius/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
+      <description>The model category of simplicial groups is left proper</description>
+    </item>
+    
+    <item>
+      <title>Michelle Waaler</title>
+      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
+      <description>Lax-Milgrams teorem</description>
     </item>
     
   </channel>

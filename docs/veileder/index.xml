@@ -35,6 +35,15 @@
     </item>
     
     <item>
+      <title>Drew Heard</title>
+      <link>https://fagkom.github.io/veileder/drew-heard/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/drew-heard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frans Leuf</title>
       <link>https://fagkom.github.io/veileder/frans-leuf/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -49,15 +58,6 @@
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/johanne-haugland/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ole Fredrik Brevig</title>
-      <link>https://fagkom.github.io/veileder/ole-fredrik-brevig/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/ole-fredrik-brevig/</guid>
       <description></description>
     </item>
     
@@ -80,15 +80,6 @@
     </item>
     
     <item>
-      <title>Sigrid Grepstad</title>
-      <link>https://fagkom.github.io/veileder/sigrid-grepstad/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/sigrid-grepstad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sverre Smalø</title>
       <link>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -103,6 +94,33 @@
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/petter-bergh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geir-Arne Fuglestad</title>
+      <link>https://fagkom.github.io/veileder/geir-arne-fuglestad/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/geir-arne-fuglestad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ole Fredrik Brevig</title>
+      <link>https://fagkom.github.io/veileder/ole-fredrik-brevig/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/ole-fredrik-brevig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sigrid Grepstad</title>
+      <link>https://fagkom.github.io/veileder/sigrid-grepstad/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/sigrid-grepstad/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistikk on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/fagfelt/statistikk/</link>
+    <description>Recent content in Statistikk on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/statistikk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andreas Matre</title>
+      <link>https://fagkom.github.io/posts/matre-andreas/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/matre-andreas/</guid>
+      <description>Linear regression for survey data</description>
+    </item>
+    
+    <item>
+      <title>Emma Sofie Skarstein</title>
+      <link>https://fagkom.github.io/posts/skarstein-emma-sofie/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/skarstein-emma-sofie/</guid>
+      <description>The EM algorithm and some applications in population genetics</description>
+    </item>
+    
+    <item>
+      <title>Filip Schjerven</title>
+      <link>https://fagkom.github.io/posts/schjerven-filip/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/schjerven-filip/</guid>
+      <description>Predictive analysis of a Gaussian random field</description>
+    </item>
+    
+  </channel>
+</rss>

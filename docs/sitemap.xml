@@ -89,7 +89,13 @@
     <loc>https://fagkom.github.io/oppgavetype/bacheloroppgave/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://fagkom.github.io/veileder/drew-heard/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/posts/angelsen-elias/</loc>
+    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/aslaksen-even/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/frans-leuf/</loc>
@@ -98,7 +104,7 @@
     <loc>https://fagkom.github.io/tags/ikke-kommutativ-geometri/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/posts/mathisen-johan/</loc>
+    <loc>https://fagkom.github.io/posts/mathisen-johan-vik/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/johanne-haugland/</loc>
@@ -116,13 +122,10 @@
     <loc>https://fagkom.github.io/tags/kommutativ-algebra/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/tags/kompleks-analyse/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://fagkom.github.io/tags/mengdel%C3%A6re/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://fagkom.github.io/veileder/ole-fredrik-brevig/</loc>
+    <loc>https://fagkom.github.io/tags/monader/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/peder-thompson/</loc>
@@ -132,12 +135,6 @@
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/rune-haugseng/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/posts/instanes-sarah/</loc>
-    <lastmod>2021-05-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://fagkom.github.io/veileder/sigrid-grepstad/</loc>
     <lastmod>2021-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/sverre-smal%C3%B8/</loc>
@@ -161,10 +158,40 @@
     <loc>https://fagkom.github.io/veileder/petter-bergh/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://fagkom.github.io/posts/matre-andreas/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/geir-arne-fuglestad/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/kompleks-analyse/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/ole-fredrik-brevig/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/instanes-sarah/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/veileder/sigrid-grepstad/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/fagfelt/statistikk/</loc>
+    <lastmod>2020-05-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/tags/algebraisk-geometri/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://fagkom.github.io/posts/andersen-anders-alexander/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/posts/hamiti-arta/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/bott-periodisitet/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/grafteori/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/isogenier/</loc>
@@ -186,6 +213,15 @@
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/kategoriteori/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/johansen-katrine/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/knuteteori/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/kobordismeteori/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/kodeteori/</loc>
@@ -227,10 +263,16 @@
     <loc>https://fagkom.github.io/tags/sf%C3%A6repakking/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://fagkom.github.io/posts/gaukstad-sigurd/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/posts/jordal-sigurd/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/veileder/steffen-oppermann/</loc>
+    <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/lien-sverre-myhre/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/tags/symmetri/</loc>
@@ -245,11 +287,41 @@
     <loc>https://fagkom.github.io/veileder/%C3%B8ystein-skars%C3%A6terhagen/</loc>
     <lastmod>2019-06-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://fagkom.github.io/posts/skarstein-emma-sofie/</loc>
+    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/schjerven-filip/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/prediktiv-analyse/</loc>
+    <lastmod>2017-06-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://fagkom.github.io/posts/fosse-didrik/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/kaspersen-eiolf/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/eksakte-kategorier/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/posts/ringerud-magnus/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/model-kategorier/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/flydal-peter-marius/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/simplisielle-grupper/</loc>
+    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/posts/waaler-michelle/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://fagkom.github.io/tags/pde/</loc>
+    <lastmod>2017-05-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://fagkom.github.io/archives/</loc>
   </url><url>

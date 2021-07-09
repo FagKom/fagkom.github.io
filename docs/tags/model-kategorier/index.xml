@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model kategorier on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/model-kategorier/</link>
+    <description>Recent content in Model kategorier on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 01 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/model-kategorier/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Peter Marius Flydal</title>
+      <link>https://fagkom.github.io/posts/flydal-peter-marius/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
+      <description>The model category of simplicial groups is left proper</description>
+    </item>
+    
+  </channel>
+</rss>

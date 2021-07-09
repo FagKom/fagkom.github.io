@@ -19,10 +19,19 @@
     <item>
       <title>Sarah May Instanes</title>
       <link>https://fagkom.github.io/posts/instanes-sarah/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/instanes-sarah/</guid>
       <description>Faktorisering i Hardy-rom</description>
+    </item>
+    
+    <item>
+      <title>Michelle Waaler</title>
+      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
+      <description>Lax-Milgrams teorem</description>
     </item>
     
   </channel>

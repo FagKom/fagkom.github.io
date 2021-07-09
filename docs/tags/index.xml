@@ -116,20 +116,20 @@
     </item>
     
     <item>
-      <title>Kompleks analyse</title>
-      <link>https://fagkom.github.io/tags/kompleks-analyse/</link>
-      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/kompleks-analyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mengdelære</title>
       <link>https://fagkom.github.io/tags/mengdel%C3%A6re/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/mengdel%C3%A6re/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Monader</title>
+      <link>https://fagkom.github.io/tags/monader/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/monader/</guid>
       <description></description>
     </item>
     
@@ -170,11 +170,38 @@
     </item>
     
     <item>
+      <title>Kompleks analyse</title>
+      <link>https://fagkom.github.io/tags/kompleks-analyse/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/kompleks-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Algebraisk geometri</title>
       <link>https://fagkom.github.io/tags/algebraisk-geometri/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/algebraisk-geometri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bott periodisitet</title>
+      <link>https://fagkom.github.io/tags/bott-periodisitet/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/bott-periodisitet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grafteori</title>
+      <link>https://fagkom.github.io/tags/grafteori/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/grafteori/</guid>
       <description></description>
     </item>
     
@@ -193,6 +220,24 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/kategoriteori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Knuteteori</title>
+      <link>https://fagkom.github.io/tags/knuteteori/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/knuteteori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kobordismeteori</title>
+      <link>https://fagkom.github.io/tags/kobordismeteori/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/kobordismeteori/</guid>
       <description></description>
     </item>
     
@@ -247,6 +292,51 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/symmetri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prediktiv analyse</title>
+      <link>https://fagkom.github.io/tags/prediktiv-analyse/</link>
+      <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/prediktiv-analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eksakte kategorier</title>
+      <link>https://fagkom.github.io/tags/eksakte-kategorier/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/eksakte-kategorier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model kategorier</title>
+      <link>https://fagkom.github.io/tags/model-kategorier/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/model-kategorier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simplisielle grupper</title>
+      <link>https://fagkom.github.io/tags/simplisielle-grupper/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/simplisielle-grupper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PDE</title>
+      <link>https://fagkom.github.io/tags/pde/</link>
+      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/pde/</guid>
       <description></description>
     </item>
     

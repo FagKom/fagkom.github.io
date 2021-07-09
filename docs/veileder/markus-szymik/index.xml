@@ -16,5 +16,23 @@
       <description>The 17 Wallpaper Groups</description>
     </item>
     
+    <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre/</guid>
+      <description>Knot quandles</description>
+    </item>
+    
+    <item>
+      <title>Peter Marius Flydal</title>
+      <link>https://fagkom.github.io/posts/flydal-peter-marius/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
+      <description>The model category of simplicial groups is left proper</description>
+    </item>
+    
   </channel>
 </rss>
