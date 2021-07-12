@@ -7,7 +7,7 @@ fagfelt: ["Topologi"]
 tags: ["Monader"]
 veileder: ["Drew Heard"]
 math: true 
-summary: "Modads, algebras and descent theory"
+summary: "Monads, algebras and descent theory"
 ---
 
 **Tittel:** Monads, algebras and descent theory
