@@ -6,7 +6,25 @@
     <description>Recent content in Statistikk on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/statistikk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/statistikk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emma Sofie Skarstein</title>
+      <link>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</guid>
+      <description>Accounting for spatial bias in citizen science observations of Norwegian freshwater fish by using an effort spatial field</description>
+    </item>
+    
+    <item>
+      <title>Filip Schjerven</title>
+      <link>https://fagkom.github.io/posts/schjerven-filip-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/schjerven-filip-2/</guid>
+      <description>Prediction models for hypertension using the HUNT Study data</description>
+    </item>
+    
     <item>
       <title>Andreas Matre</title>
       <link>https://fagkom.github.io/posts/matre-andreas/</link>

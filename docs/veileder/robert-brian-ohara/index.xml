@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert Brian OHara on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/robert-brian-ohara/</link>
+    <description>Recent content in Robert Brian OHara on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/robert-brian-ohara/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Emma Sofie Skarstein</title>
+      <link>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</guid>
+      <description>Accounting for spatial bias in citizen science observations of Norwegian freshwater fish by using an effort spatial field</description>
+    </item>
+    
+  </channel>
+</rss>

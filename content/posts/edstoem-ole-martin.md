@@ -5,14 +5,14 @@ draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Algebra"]
 tags: ["Elliptiske kurver", "Gruppeteori"]
-veileder: ["Petter Bergh"]
+veileder: ["Petter Andreas Bergh"]
 math: true
 summary: "Elliptiske kurver over de rasjonale tallene"
 ---
 
 **Tittel:** Elliptiske kurver over de rasjonale tallene
 
-**Veileder:** [Petter Bergh]({{<ref "/veileder/petter-bergh">}})
+**Veileder:** [Petter Andreas Bergh]({{<ref "/veileder/petter-andreas-bergh">}})
 
 **Sammendrag:** Formålet med denne oppgaven er å se på elliptiske kurver over de rasjonale tallene, for så å bygge opp en gruppestruktur av de rasjonale punktene på en elliptisk kurve. Videre vil oppgaven ta for seg og bevise to av de mest sentrale teoremene innenfor temaet elliptiske kurver: \
 (1) Nagell-Lutz Teorem, som gir en måte å finne alle punkter av endelig orden på en elliptisk kurve; \

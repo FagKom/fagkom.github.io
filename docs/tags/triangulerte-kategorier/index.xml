@@ -16,5 +16,32 @@
       <description>An introduction to triangulated categories via the stable category of a Frobenius category</description>
     </item>
     
+    <item>
+      <title>Audun Tamnes</title>
+      <link>https://fagkom.github.io/posts/tamnes-audun/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/tamnes-audun/</guid>
+      <description>Silting subcategories and the transitivity of iterated urreducible silting mutation</description>
+    </item>
+    
+    <item>
+      <title>Johanne Haugland</title>
+      <link>https://fagkom.github.io/posts/haugland-johanne/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/haugland-johanne/</guid>
+      <description>Classifying subcategories of triangulated categories</description>
+    </item>
+    
+    <item>
+      <title>Torkil Utvik Stai</title>
+      <link>https://fagkom.github.io/posts/stai-torkil-utvik/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/stai-torkil-utvik/</guid>
+      <description>The ungraded derived category</description>
+    </item>
+    
   </channel>
 </rss>

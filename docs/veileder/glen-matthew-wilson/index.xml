@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glen Matthew Wilson on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/glen-matthew-wilson/</link>
+    <description>Recent content in Glen Matthew Wilson on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/glen-matthew-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viktor Balch Barth</title>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch-2/</guid>
+      <description>Naive motivic homotopy classes of endomorphisms of the projective line</description>
+    </item>
+    
+    <item>
+      <title>Therese Strand</title>
+      <link>https://fagkom.github.io/posts/strand-therese/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/strand-therese/</guid>
+      <description>Representativity results in motivic degree theory</description>
+    </item>
+    
+  </channel>
+</rss>

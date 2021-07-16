@@ -62,6 +62,24 @@
     </item>
     
     <item>
+      <title>Audun Tamnes</title>
+      <link>https://fagkom.github.io/posts/tamnes-audun/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/tamnes-audun/</guid>
+      <description>Silting subcategories and the transitivity of iterated urreducible silting mutation</description>
+    </item>
+    
+    <item>
+      <title>Didrik Fosse</title>
+      <link>https://fagkom.github.io/posts/fosse-didrik-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fosse-didrik-2/</guid>
+      <description>Rickard&amp;rsquo;s Morita theorem for derived categories</description>
+    </item>
+    
+    <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -171,11 +189,20 @@
     
     <item>
       <title>Viktor Balch Barth</title>
-      <link>https://fagkom.github.io/posts/barth-viktor/</link>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/barth-viktor/</guid>
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch/</guid>
       <description>p-adiske tall</description>
+    </item>
+    
+    <item>
+      <title>Johanne Haugland</title>
+      <link>https://fagkom.github.io/posts/haugland-johanne/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/haugland-johanne/</guid>
+      <description>Classifying subcategories of triangulated categories</description>
     </item>
     
     <item>
@@ -203,6 +230,24 @@
       
       <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
       <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+    <item>
+      <title>Brage Sæth</title>
+      <link>https://fagkom.github.io/posts/saeth-brage/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/saeth-brage/</guid>
+      <description>Kodeteori i et historisk perspektiv</description>
+    </item>
+    
+    <item>
+      <title>Torkil Utvik Stai</title>
+      <link>https://fagkom.github.io/posts/stai-torkil-utvik/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/stai-torkil-utvik/</guid>
+      <description>The ungraded derived category</description>
     </item>
     
   </channel>

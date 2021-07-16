@@ -234,10 +234,10 @@
     
     <item>
       <title>Viktor Balch Barth</title>
-      <link>https://fagkom.github.io/posts/barth-viktor/</link>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/barth-viktor/</guid>
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch/</guid>
       <description>p-adiske tall</description>
     </item>
     
@@ -287,21 +287,21 @@
     </item>
     
     <item>
+      <title>Michelle Waaler</title>
+      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
+      <description>Lax-Milgrams teorem</description>
+    </item>
+    
+    <item>
       <title>Peter Marius Flydal</title>
       <link>https://fagkom.github.io/posts/flydal-peter-marius/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/flydal-peter-marius/</guid>
       <description>The model category of simplicial groups is left proper</description>
-    </item>
-    
-    <item>
-      <title>Michelle Waaler</title>
-      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
-      <description>Lax-Milgrams teorem</description>
     </item>
     
   </channel>

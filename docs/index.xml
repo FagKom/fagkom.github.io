@@ -89,12 +89,57 @@
     </item>
     
     <item>
+      <title>Emma Sofie Skarstein</title>
+      <link>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</guid>
+      <description>Accounting for spatial bias in citizen science observations of Norwegian freshwater fish by using an effort spatial field</description>
+    </item>
+    
+    <item>
+      <title>Viktor Balch Barth</title>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch-2/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch-2/</guid>
+      <description>Naive motivic homotopy classes of endomorphisms of the projective line</description>
+    </item>
+    
+    <item>
+      <title>Eiolf Kaspersen</title>
+      <link>https://fagkom.github.io/posts/kaspersen-eiolf-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kaspersen-eiolf-2/</guid>
+      <description>Obstructions to the surjectivity of the Thom homomorphism</description>
+    </item>
+    
+    <item>
+      <title>Filip Schjerven</title>
+      <link>https://fagkom.github.io/posts/schjerven-filip-2/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/schjerven-filip-2/</guid>
+      <description>Prediction models for hypertension using the HUNT Study data</description>
+    </item>
+    
+    <item>
       <title>Ole Martin Edstrøm</title>
       <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
       <description>Elliptiske kurver over de rasjonale tallene</description>
+    </item>
+    
+    <item>
+      <title>Therese Strand</title>
+      <link>https://fagkom.github.io/posts/strand-therese/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/strand-therese/</guid>
+      <description>Representativity results in motivic degree theory</description>
     </item>
     
     <item>
@@ -116,6 +161,15 @@
     </item>
     
     <item>
+      <title>Mona-Lena Norheim</title>
+      <link>https://fagkom.github.io/posts/norheim-mona-lena/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/norheim-mona-lena/</guid>
+      <description>Investigating iterative solvers of Poisson-type equations discretized by the Two-Point Flux-Approximation scheme</description>
+    </item>
+    
+    <item>
       <title>Anders Alexander andersen</title>
       <link>https://fagkom.github.io/posts/andersen-anders-alexander/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -131,6 +185,24 @@
       
       <guid>https://fagkom.github.io/posts/hamiti-arta/</guid>
       <description>An introduction to abelian categories</description>
+    </item>
+    
+    <item>
+      <title>Audun Tamnes</title>
+      <link>https://fagkom.github.io/posts/tamnes-audun/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/tamnes-audun/</guid>
+      <description>Silting subcategories and the transitivity of iterated urreducible silting mutation</description>
+    </item>
+    
+    <item>
+      <title>Didrik Fosse</title>
+      <link>https://fagkom.github.io/posts/fosse-didrik-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fosse-didrik-2/</guid>
+      <description>Rickard&amp;rsquo;s Morita theorem for derived categories</description>
     </item>
     
     <item>
@@ -270,11 +342,20 @@
     
     <item>
       <title>Viktor Balch Barth</title>
-      <link>https://fagkom.github.io/posts/barth-viktor/</link>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/barth-viktor/</guid>
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch/</guid>
       <description>p-adiske tall</description>
+    </item>
+    
+    <item>
+      <title>Peter Marius Flydal</title>
+      <link>https://fagkom.github.io/posts/flydal-peter-marius-2/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/flydal-peter-marius-2/</guid>
+      <description>A classifying space for principal G-bundles with connection, in the category of simplicial presheaves</description>
     </item>
     
     <item>
@@ -284,6 +365,24 @@
       
       <guid>https://fagkom.github.io/posts/skarstein-emma-sofie/</guid>
       <description>The EM algorithm and some applications in population genetics</description>
+    </item>
+    
+    <item>
+      <title>Johanne Haugland</title>
+      <link>https://fagkom.github.io/posts/haugland-johanne/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/haugland-johanne/</guid>
+      <description>Classifying subcategories of triangulated categories</description>
+    </item>
+    
+    <item>
+      <title>Paul André Trygsland</title>
+      <link>https://fagkom.github.io/posts/trygsland-paul-andre/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/trygsland-paul-andre/</guid>
+      <description>Colourful cohomology</description>
     </item>
     
     <item>
@@ -314,12 +413,30 @@
     </item>
     
     <item>
+      <title>Knut Bjarte Haus</title>
+      <link>https://fagkom.github.io/posts/haus-knut-bjarte/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/haus-knut-bjarte/</guid>
+      <description>Differentiable structures on spheres and the Kervaire invariant</description>
+    </item>
+    
+    <item>
       <title>Magnus Ringerud</title>
       <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
       <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+    <item>
+      <title>Michelle Waaler</title>
+      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
+      <description>Lax-Milgrams teorem</description>
     </item>
     
     <item>
@@ -332,12 +449,30 @@
     </item>
     
     <item>
-      <title>Michelle Waaler</title>
-      <link>https://fagkom.github.io/posts/waaler-michelle/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <title>Øistein Søvik</title>
+      <link>https://fagkom.github.io/posts/soevik-oeistein/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
-      <description>Lax-Milgrams teorem</description>
+      <guid>https://fagkom.github.io/posts/soevik-oeistein/</guid>
+      <description>Hankel forms and Nehari&amp;rsquo;s theorem</description>
+    </item>
+    
+    <item>
+      <title>Brage Sæth</title>
+      <link>https://fagkom.github.io/posts/saeth-brage/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/saeth-brage/</guid>
+      <description>Kodeteori i et historisk perspektiv</description>
+    </item>
+    
+    <item>
+      <title>Torkil Utvik Stai</title>
+      <link>https://fagkom.github.io/posts/stai-torkil-utvik/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/stai-torkil-utvik/</guid>
+      <description>The ungraded derived category</description>
     </item>
     
     

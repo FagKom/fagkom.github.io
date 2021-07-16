@@ -1,6 +1,6 @@
 ---
 title: "Michelle Waaler"
-date: 2017-05-20
+date: 2017-06-01
 draft: false
 oppgavetype: ["Matematikk", "Bacheloroppgave"]
 fagfelt: ["Analyse"]

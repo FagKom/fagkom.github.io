@@ -62,6 +62,15 @@
     </item>
     
     <item>
+      <title>Modellkategorier</title>
+      <link>https://fagkom.github.io/tags/modellkategorier/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/modellkategorier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Representasjonsteori</title>
       <link>https://fagkom.github.io/tags/representasjonsteori/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -152,6 +161,15 @@
     </item>
     
     <item>
+      <title>Algebraisk geometri</title>
+      <link>https://fagkom.github.io/tags/algebraisk-geometri/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/algebraisk-geometri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elliptiske kurver</title>
       <link>https://fagkom.github.io/tags/elliptiske-kurver/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -179,11 +197,11 @@
     </item>
     
     <item>
-      <title>Algebraisk geometri</title>
-      <link>https://fagkom.github.io/tags/algebraisk-geometri/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <title>MATLAB</title>
+      <link>https://fagkom.github.io/tags/matlab/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/tags/algebraisk-geometri/</guid>
+      <guid>https://fagkom.github.io/tags/matlab/</guid>
       <description></description>
     </item>
     
@@ -296,6 +314,24 @@
     </item>
     
     <item>
+      <title>Vippeteori</title>
+      <link>https://fagkom.github.io/tags/vippeteori/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/vippeteori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Differensialtopologi</title>
+      <link>https://fagkom.github.io/tags/differensialtopologi/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/differensialtopologi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Prediktiv analyse</title>
       <link>https://fagkom.github.io/tags/prediktiv-analyse/</link>
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
@@ -314,11 +350,11 @@
     </item>
     
     <item>
-      <title>Model kategorier</title>
-      <link>https://fagkom.github.io/tags/model-kategorier/</link>
+      <title>PDE</title>
+      <link>https://fagkom.github.io/tags/pde/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/tags/model-kategorier/</guid>
+      <guid>https://fagkom.github.io/tags/pde/</guid>
       <description></description>
     </item>
     
@@ -332,11 +368,11 @@
     </item>
     
     <item>
-      <title>PDE</title>
-      <link>https://fagkom.github.io/tags/pde/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <title>Funksjonalanalyse</title>
+      <link>https://fagkom.github.io/tags/funksjonalanalyse/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/tags/pde/</guid>
+      <guid>https://fagkom.github.io/tags/funksjonalanalyse/</guid>
       <description></description>
     </item>
     

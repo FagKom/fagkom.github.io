@@ -18,11 +18,29 @@
     
     <item>
       <title>Viktor Balch Barth</title>
-      <link>https://fagkom.github.io/posts/barth-viktor/</link>
+      <link>https://fagkom.github.io/posts/barth-viktor-balch/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/posts/barth-viktor/</guid>
+      <guid>https://fagkom.github.io/posts/barth-viktor-balch/</guid>
       <description>p-adiske tall</description>
+    </item>
+    
+    <item>
+      <title>Paul André Trygsland</title>
+      <link>https://fagkom.github.io/posts/trygsland-paul-andre/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/trygsland-paul-andre/</guid>
+      <description>Colourful cohomology</description>
+    </item>
+    
+    <item>
+      <title>Brage Sæth</title>
+      <link>https://fagkom.github.io/posts/saeth-brage/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/saeth-brage/</guid>
+      <description>Kodeteori i et historisk perspektiv</description>
     </item>
     
   </channel>

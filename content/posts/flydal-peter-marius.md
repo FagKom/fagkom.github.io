@@ -4,7 +4,7 @@ date: 2017-06-01
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Topologi"]
-tags: ["Model kategorier", "Simplisielle grupper"]
+tags: ["Modellkategorier", "Simplisielle grupper"]
 veileder: ["Markus Szymik"]
 math: true
 summary: "The model category of simplicial groups is left proper"

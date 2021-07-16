@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Didrik Fosse</title>
+      <link>https://fagkom.github.io/posts/fosse-didrik-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fosse-didrik-2/</guid>
+      <description>Rickard&amp;rsquo;s Morita theorem for derived categories</description>
+    </item>
+    
+    <item>
       <title>Kristina Sjøborg</title>
       <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -41,6 +50,15 @@
       
       <guid>https://fagkom.github.io/posts/jordal-sigurd/</guid>
       <description>On finite simple groups</description>
+    </item>
+    
+    <item>
+      <title>Torkil Utvik Stai</title>
+      <link>https://fagkom.github.io/posts/stai-torkil-utvik/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/stai-torkil-utvik/</guid>
+      <description>The ungraded derived category</description>
     </item>
     
   </channel>

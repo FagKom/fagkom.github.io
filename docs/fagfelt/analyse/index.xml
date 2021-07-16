@@ -28,10 +28,19 @@
     <item>
       <title>Michelle Waaler</title>
       <link>https://fagkom.github.io/posts/waaler-michelle/</link>
-      <pubDate>Sat, 20 May 2017 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/waaler-michelle/</guid>
       <description>Lax-Milgrams teorem</description>
+    </item>
+    
+    <item>
+      <title>Øistein Søvik</title>
+      <link>https://fagkom.github.io/posts/soevik-oeistein/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/soevik-oeistein/</guid>
+      <description>Hankel forms and Nehari&amp;rsquo;s theorem</description>
     </item>
     
   </channel>

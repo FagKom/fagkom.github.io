@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olav Møyner on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/olav-m%C3%B8yner/</link>
+    <description>Recent content in Olav Møyner on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/olav-m%C3%B8yner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mona-Lena Norheim</title>
+      <link>https://fagkom.github.io/posts/norheim-mona-lena/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/norheim-mona-lena/</guid>
+      <description>Investigating iterative solvers of Poisson-type equations discretized by the Two-Point Flux-Approximation scheme</description>
+    </item>
+    
+  </channel>
+</rss>
