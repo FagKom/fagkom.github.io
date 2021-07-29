@@ -5,16 +5,16 @@ draft: false
 oppgavetype: ["Masteroppgave", "Fysikk"]
 fagfelt: ["Høyenergifysikk"]
 tags: ["Gravitasjon", "Gravitasjonsbølger", "Relativitet", "Feltteori"]
-veileder: ["Alex Bentley Nielsen (UiS)", "Jens Oluf Andersen"]
+veileder: ["Alex Bentley Nielsen", "Jens Oluf Andersen"]
 math: true
 summary: "First post-Newtonian correction to gravitational waves produced by compact binaries: How to compute relativistic corrections to gravitational waves using Feynman diagrams"
 ---
 
 **Tittel:** First post-Newtonian correction to gravitational waves produced by compact binaries
 
-**Veileder:** [Alex Bentley Nielsen]({{<ref "/veileder/alex-bentley-nielsen">}}), [Jens Oluf Andersen]({{<ref "/veileder/jens-oluf-andersen">}}) 
+**Veileder:** [Alex Bentley Nielsen (UIS)]({{<ref "/veileder/alex-bentley-nielsen">}}), [Jens Oluf Andersen]({{<ref "/veileder/jens-oluf-andersen">}}) 
 
-**Sammendrag:** The purpose of this thesis is to calculate the relativistic correction to the gravitational waves produced by compact binaries in the inspiral phase. The correction is up to the next to leading order, the so-called first post-Newtonian order (1PN), which are correctional terms proportional to (v/c)^2 compared to leading order, Newtonian, terms.
+**Sammendrag:** The purpose of this thesis is to calculate the relativistic correction to the gravitational waves produced by compact binaries in the inspiral phase. The correction is up to the next to leading order, the so-called first post-Newtonian order (1PN), which are correctional terms proportional to $(v/c)^2$ compared to leading order, Newtonian, terms.
 
 These corrections are well known in the literature, even going beyond the first order corrections, so why is it computed again here? In later years, an alternative approach for computing these terms using effective field theory has emerged. This thesis investigates this approach by replicating it, and attempts to make this approach more accessible to those not familiar with effective field theories. 
 

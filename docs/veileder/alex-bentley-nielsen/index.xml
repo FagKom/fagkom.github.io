@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Bentley Nielsen on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/alex-bentley-nielsen/</link>
+    <description>Recent content in Alex Bentley Nielsen on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/alex-bentley-nielsen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vegard Undheim</title>
+      <link>https://fagkom.github.io/posts/undheim-vegard/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/undheim-vegard/</guid>
+      <description>First post-Newtonian correction to gravitational waves produced by compact binaries: How to compute relativistic corrections to gravitational waves using Feynman diagrams</description>
+    </item>
+    
+  </channel>
+</rss>
