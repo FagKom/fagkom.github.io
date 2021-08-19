@@ -8,6 +8,15 @@
     <copyright> </copyright>
     <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/matematikk/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Anders Alexander andersen</title>
+      <link>https://fagkom.github.io/posts/andersen-anders-alexander-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/andersen-anders-alexander-2/</guid>
+      <description>Simplicial sheaves and classification problems</description>
+    </item>
+    
+    <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -68,6 +77,15 @@
       
       <guid>https://fagkom.github.io/posts/mathisen-johan-vik/</guid>
       <description>An introduction to triangulated categories via the stable category of a Frobenius category</description>
+    </item>
+    
+    <item>
+      <title>Marus Valås Hagen</title>
+      <link>https://fagkom.github.io/posts/hagen-markus-valas/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hagen-markus-valas/</guid>
+      <description>Dedakind zeta functions</description>
     </item>
     
     <item>

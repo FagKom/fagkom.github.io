@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tallteori on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/tallteori/</link>
+    <description>Recent content in Tallteori on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/tallteori/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Marus Valås Hagen</title>
+      <link>https://fagkom.github.io/posts/hagen-markus-valas/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hagen-markus-valas/</guid>
+      <description>Dedakind zeta functions</description>
+    </item>
+    
+  </channel>
+</rss>
