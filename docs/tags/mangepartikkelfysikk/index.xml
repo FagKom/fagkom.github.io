@@ -16,5 +16,14 @@
       <description>Phonon coupled Luttinger liquids in a Haldane armchair nanoribbon</description>
     </item>
     
+    <item>
+      <title>Sindre Brattegard</title>
+      <link>https://fagkom.github.io/posts/brattegard-sindre/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/brattegard-sindre/</guid>
+      <description>Explorations of coherent state path integral formulations for spin systems using a projection operator implementation of occupation number constraints</description>
+    </item>
+    
   </channel>
 </rss>
