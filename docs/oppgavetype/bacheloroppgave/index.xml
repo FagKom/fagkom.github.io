@@ -313,5 +313,14 @@
       <description>The model category of simplicial groups is left proper</description>
     </item>
     
+    <item>
+      <title>Joakim Fremstad</title>
+      <link>https://fagkom.github.io/posts/fremstad-joakim/</link>
+      <pubDate>Mon, 17 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/fremstad-joakim/</guid>
+      <description>Rickard&amp;rsquo;s derived Morita theorem via strong homotopy actions</description>
+    </item>
+    
   </channel>
 </rss>

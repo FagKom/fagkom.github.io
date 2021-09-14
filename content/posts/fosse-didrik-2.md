@@ -4,7 +4,7 @@ date: 2019-06-01
 draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
 fagfelt: ["Algebra"]
-tags: ["Homologisk algebra"]
+tags: ["Homologisk algebra", "Deriverte kategorier", "Morita teori"]
 veileder: ["Steffen Oppermann"]
 math: true
 summary: "Rickard's Morita theorem for derived categories"
