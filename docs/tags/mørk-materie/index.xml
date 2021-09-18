@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mørk materie on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/m%C3%B8rk-materie/</link>
+    <description>Recent content in Mørk materie on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/m%C3%B8rk-materie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Einar Urdshals</title>
+      <link>https://fagkom.github.io/posts/urdshals-einar/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/urdshals-einar/</guid>
+      <description>Atomic dark matter with a massive mediator</description>
+    </item>
+    
+    <item>
+      <title>Gert Kluge</title>
+      <link>https://fagkom.github.io/posts/kluge-gert/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kluge-gert/</guid>
+      <description>Simulating particle cascades in the search for dark matter using cosmic neutrino observations</description>
+    </item>
+    
+    <item>
+      <title>Petter Taule</title>
+      <link>https://fagkom.github.io/posts/taule-petter/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/taule-petter/</guid>
+      <description>Applications of the Goldstone equivalence theorem to scattering and decay processes</description>
+    </item>
+    
+  </channel>
+</rss>

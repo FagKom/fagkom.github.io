@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeroen Danon on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/jeroen-danon/</link>
+    <description>Recent content in Jeroen Danon on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/jeroen-danon/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jonas Lidal</title>
+      <link>https://fagkom.github.io/posts/lidal-jonas/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lidal-jonas/</guid>
+      <description>Photon-assisted Landau-Zener transitions in driven few-level systems</description>
+    </item>
+    
+    <item>
+      <title>Ola Nielsen Estensen</title>
+      <link>https://fagkom.github.io/posts/estensen-ola-nielsen/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/estensen-ola-nielsen/</guid>
+      <description>Controlling nuclear field gradients in triple quantum dot by Landau-Zener sweeps</description>
+    </item>
+    
+  </channel>
+</rss>

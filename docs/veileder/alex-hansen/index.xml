@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex Hansen on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/alex-hansen/</link>
+    <description>Recent content in Alex Hansen on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/alex-hansen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frose Thorsen Børseth</title>
+      <link>https://fagkom.github.io/posts/borseth-frode-thorsen/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/borseth-frode-thorsen/</guid>
+      <description>Solving the inverse problem of electrical resistivity tomography by simulated annealing</description>
+    </item>
+    
+  </channel>
+</rss>

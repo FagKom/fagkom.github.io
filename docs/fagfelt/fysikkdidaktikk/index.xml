@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fysikkdidaktikk on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/fagfelt/fysikkdidaktikk/</link>
+    <description>Recent content in Fysikkdidaktikk on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 01 Jun 2009 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/fysikkdidaktikk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Andreas Wahl</title>
+      <link>https://fagkom.github.io/posts/wahl-andreas/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/wahl-andreas/</guid>
+      <description>Kan du velge fysikk uten å vite hva det er?</description>
+    </item>
+    
+  </channel>
+</rss>

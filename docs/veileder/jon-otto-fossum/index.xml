@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Otto Fossum on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/jon-otto-fossum/</link>
+    <description>Recent content in Jon Otto Fossum on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/jon-otto-fossum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asbjørn Torsvik Krüger</title>
+      <link>https://fagkom.github.io/posts/kruger-asbjorn-torsvik/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/kruger-asbjorn-torsvik/</guid>
+      <description>Electrohydrodynamics and particle sintering as methods for production of microporous capsules</description>
+    </item>
+    
+  </channel>
+</rss>
