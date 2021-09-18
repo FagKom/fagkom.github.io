@@ -34,19 +34,22 @@ menu:
         weight: 5
       - name: Oppgavetype
         url: oppgavetype/
-        weight: 10        
+        weight: 10
+      - name: Veileder
+        url: veileder/
+        weight: 15                  
       - name: Tags
         url: tags/
-        weight: 15          
+        weight: 20          
       - name: Arkiv
         url: archives/
-        weight: 20
+        weight: 25
       - name: Om oss
         url: about/
-        weight: 20             
+        weight: 30             
       - name: Søk
         url: search/
-        weight: 30
+        weight: 35
 
 
 
