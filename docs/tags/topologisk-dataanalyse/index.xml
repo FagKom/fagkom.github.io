@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topologisk dataanalyse on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/topologisk-dataanalyse/</link>
+    <description>Recent content in Topologisk dataanalyse on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/topologisk-dataanalyse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endre Sørmo Rundsveen</title>
+      <link>https://fagkom.github.io/posts/rundsveen-endre-sormo/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/rundsveen-endre-sormo/</guid>
+      <description>Torsion, cotorsion and tilting in abelian categories</description>
+    </item>
+    
+  </channel>
+</rss>

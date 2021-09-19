@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 15 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Homologisk algebra</title>
+      <link>https://fagkom.github.io/tags/homologisk-algebra/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/homologisk-algebra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representasjonsteori</title>
+      <link>https://fagkom.github.io/tags/representasjonsteori/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/representasjonsteori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topologisk dataanalyse</title>
+      <link>https://fagkom.github.io/tags/topologisk-dataanalyse/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/topologisk-dataanalyse/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Feltteori</title>
       <link>https://fagkom.github.io/tags/feltteori/</link>
@@ -89,11 +116,47 @@
     </item>
     
     <item>
-      <title>Homologisk algebra</title>
-      <link>https://fagkom.github.io/tags/homologisk-algebra/</link>
+      <title>Derivatorer</title>
+      <link>https://fagkom.github.io/tags/derivatorer/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/tags/homologisk-algebra/</guid>
+      <guid>https://fagkom.github.io/tags/derivatorer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eksakte kategorier</title>
+      <link>https://fagkom.github.io/tags/eksakte-kategorier/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/eksakte-kategorier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elliptiske kurver</title>
+      <link>https://fagkom.github.io/tags/elliptiske-kurver/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/elliptiske-kurver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometriske modeller</title>
+      <link>https://fagkom.github.io/tags/geometriske-modeller/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/geometriske-modeller/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorf kryptering</title>
+      <link>https://fagkom.github.io/tags/homomorf-kryptering/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/homomorf-kryptering/</guid>
       <description></description>
     </item>
     
@@ -107,11 +170,29 @@
     </item>
     
     <item>
+      <title>Isogenier</title>
+      <link>https://fagkom.github.io/tags/isogenier/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/isogenier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Knippeteori</title>
       <link>https://fagkom.github.io/tags/knippeteori/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/knippeteori/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kryptografi</title>
+      <link>https://fagkom.github.io/tags/kryptografi/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/tags/kryptografi/</guid>
       <description></description>
     </item>
     
@@ -125,11 +206,11 @@
     </item>
     
     <item>
-      <title>Representasjonsteori</title>
-      <link>https://fagkom.github.io/tags/representasjonsteori/</link>
+      <title>Vippeteori</title>
+      <link>https://fagkom.github.io/tags/vippeteori/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/tags/representasjonsteori/</guid>
+      <guid>https://fagkom.github.io/tags/vippeteori/</guid>
       <description></description>
     </item>
     
@@ -233,15 +314,6 @@
     </item>
     
     <item>
-      <title>Elliptiske kurver</title>
-      <link>https://fagkom.github.io/tags/elliptiske-kurver/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/elliptiske-kurver/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Gruppeteori</title>
       <link>https://fagkom.github.io/tags/gruppeteori/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -305,15 +377,6 @@
     </item>
     
     <item>
-      <title>Isogenier</title>
-      <link>https://fagkom.github.io/tags/isogenier/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/isogenier/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Kategoriteori</title>
       <link>https://fagkom.github.io/tags/kategoriteori/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -359,15 +422,6 @@
     </item>
     
     <item>
-      <title>Kryptografi</title>
-      <link>https://fagkom.github.io/tags/kryptografi/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/kryptografi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Morita teori</title>
       <link>https://fagkom.github.io/tags/morita-teori/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -404,15 +458,6 @@
     </item>
     
     <item>
-      <title>Vippeteori</title>
-      <link>https://fagkom.github.io/tags/vippeteori/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/vippeteori/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Differensialtopologi</title>
       <link>https://fagkom.github.io/tags/differensialtopologi/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
@@ -427,15 +472,6 @@
       <pubDate>Wed, 07 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/tags/prediktiv-analyse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Eksakte kategorier</title>
-      <link>https://fagkom.github.io/tags/eksakte-kategorier/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/tags/eksakte-kategorier/</guid>
       <description></description>
     </item>
     

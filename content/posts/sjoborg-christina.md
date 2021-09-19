@@ -1,5 +1,5 @@
 ---
-title: "Kristina Sjøborg"
+title: "Christina Sjøborg"
 date: 2019-06-01
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]

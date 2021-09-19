@@ -6,7 +6,16 @@
     <description>Recent content in Aslak Bakke Buan on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/aslak-bakke-buan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/aslak-bakke-buan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Håvard Utne Terland</title>
+      <link>https://fagkom.github.io/posts/terland-havard-utne/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/terland-havard-utne/</guid>
+      <description>Computing tau-rigid modules</description>
+    </item>
+    
     <item>
       <title>Audun Tamnes</title>
       <link>https://fagkom.github.io/posts/tamnes-audun/</link>

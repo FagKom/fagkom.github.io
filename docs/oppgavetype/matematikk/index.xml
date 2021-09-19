@@ -6,7 +6,16 @@
     <description>Recent content in Matematikk on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Tue, 01 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/matematikk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/matematikk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endre Sørmo Rundsveen</title>
+      <link>https://fagkom.github.io/posts/rundsveen-endre-sormo/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/rundsveen-endre-sormo/</guid>
+      <description>Torsion, cotorsion and tilting in abelian categories</description>
+    </item>
+    
     <item>
       <title>Anders Alexander andersen</title>
       <link>https://fagkom.github.io/posts/andersen-anders-alexander-2/</link>
@@ -17,12 +26,66 @@
     </item>
     
     <item>
+      <title>Christina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-christina-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-christina-2/</guid>
+      <description>Gentle algebras and a geometric model for the module category</description>
+    </item>
+    
+    <item>
+      <title>Håvard Utne Terland</title>
+      <link>https://fagkom.github.io/posts/terland-havard-utne/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/terland-havard-utne/</guid>
+      <description>Computing tau-rigid modules</description>
+    </item>
+    
+    <item>
       <title>Jacob Fjeld Grevstad</title>
       <link>https://fagkom.github.io/posts/grevstad-jacob-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/grevstad-jacob-2/</guid>
       <description>Finitistic dimension conjecture</description>
+    </item>
+    
+    <item>
+      <title>Jacob Sjødin</title>
+      <link>https://fagkom.github.io/posts/sjodin-jacob-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjodin-jacob-2/</guid>
+      <description>Privacy preserving computation with fully homomorphic encryption</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen-2/</guid>
+      <description>Constructing isogenies between elliptic curves</description>
+    </item>
+    
+    <item>
+      <title>Kristoffer Brakstad</title>
+      <link>https://fagkom.github.io/posts/brakstad-kristoffer-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/brakstad-kristoffer-2/</guid>
+      <description>Triangulated derivators and their Calabi-Yau dimension</description>
+    </item>
+    
+    <item>
+      <title>Ole Berre</title>
+      <link>https://fagkom.github.io/posts/berre-ole-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/berre-ole-2/</guid>
+      <description>The derived category of exact categories and classification of exact structures</description>
     </item>
     
     <item>
@@ -206,6 +269,15 @@
     </item>
     
     <item>
+      <title>Christina Sjøborg</title>
+      <link>https://fagkom.github.io/posts/sjoborg-christina/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjoborg-christina/</guid>
+      <description>Wedderburns teorem</description>
+    </item>
+    
+    <item>
       <title>Didrik Fosse</title>
       <link>https://fagkom.github.io/posts/fosse-didrik-2/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -266,15 +338,6 @@
       
       <guid>https://fagkom.github.io/posts/johansen-katrine/</guid>
       <description>???</description>
-    </item>
-    
-    <item>
-      <title>Kristina Sjøborg</title>
-      <link>https://fagkom.github.io/posts/sjoborg-kristina/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/sjoborg-kristina/</guid>
-      <description>Wedderburns teorem</description>
     </item>
     
     <item>

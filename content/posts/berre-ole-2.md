@@ -1,7 +1,7 @@
 ---
 title: "Ole Berre"
 date: 2021-06-01
-draft: true
+draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
 fagfelt: ["Algebra"]
 tags: ["Homologisk algebra", "Eksakte kategorier"]
@@ -18,5 +18,5 @@ summary: "The derived category of exact categories and classification of exact s
 $$ 1 \longrightarrow 2 \text{, } 1 \longrightarrow 2 \longleftarrow 3 \text{ og } 1 \longrightarrow 2 \longrightarrow 3$$
 
 
-<iframe src="" width="700" height="980" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/149icJW__NUgHzUraZnFldGj2O6rIenFo/preview" width="700" height="980" allow="autoplay"></iframe>
 
