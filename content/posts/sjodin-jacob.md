@@ -5,14 +5,14 @@ draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Algebra"]
 tags: ["Kryptografi", "Sfærepakking", "Kodeteori"]
-veileder: ["???"]
+veileder: ["Øystein Skarsæterhagen"]
 math: true
 summary: "Constructing the Leech lattice through the extended Golay code"
 ---
 
 **Tittel:**  Constructing the Leech lattice through the extended Golay code
 
-**Veileder:** [???]({{<ref "/veileder/???">}})
+**Veileder:** [Øystein Skarsæterhagen]({{<ref "/veileder/øystein-skarsæterhagen">}})
 
 **Sammendrag:** Imagine we want to send information from a source to a destination, but on its way something slightly alters the information. Small alterations change the interpretation of the information completely. Because of this, mathematicians and others have developed techniques for correcting small alterations the information has obtained in transmission. These techniques are known as error correcting codes. In this thesis we look at a few important examples of codes and how to construct them. We further use these codes to construct what is known as sphere packings.
 
