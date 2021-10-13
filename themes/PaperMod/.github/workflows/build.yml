@@ -4,7 +4,13 @@ on:
   pull_request:
     branches:
       - master
+      - main
       - exampleSite
+  push: 
+    branches:
+      - master
+      - main
+     
   workflow_dispatch:
     # manual run
 
