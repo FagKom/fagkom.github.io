@@ -3,8 +3,8 @@ title: "Nora Røhnebæk Aasen"
 date: 2021-05-20
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
-fagfelt: ["Statistikk"]
-tags: [""]
+fagfelt: ["Analyse", "Statistikk"]
+tags: ["Sannsynlighet", "Copulateori"]
 veileder: ["Sigrid Grepstad", "Thea Bjørnland"]
 math: true
 summary: "An introduction to copula theory"
