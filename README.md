@@ -1,6 +1,6 @@
 # Linjeforeningen Deltas oppgavearkiv
 
-Velkommen! Delta er linjeforeningen for matematikk og fysikk på NTNU, så i dette arkivet finner du mange spennende bachelor og masteroppgaver skrevet av studenter som har vært innom oss i Delta. Komiteen med ansvaret for å opprettholde dette arkivet heter FagKom, hens navnet. 
+Velkommen! Delta er linjeforeningen for matematikk og fysikk på NTNU, så i dette arkivet finner du mange spennende bachelor og masteroppgaver skrevet av studenter som har vært innom oss i Delta. Komiteen med ansvaret for å opprettholde dette arkivet heter FagKom, derav navnet. 
 
 ## Bidra med din oppgave
 
