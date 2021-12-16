@@ -1,6 +1,6 @@
 # Linjeforeningen Deltas oppgavearkiv
 
-Velkommen! Delta er linjeforeningen for matematikk og fysikk på NTNU, så i dette arkivet finner du mange spennende bachelor og masteroppgaver skrevet av studenter som har vært innom oss i Delta. Komiteen med asvaret for å opprettholde dette arkivet heter FagKom, hens navnet. 
+Velkommen! Delta er linjeforeningen for matematikk og fysikk på NTNU, så i dette arkivet finner du mange spennende bachelor og masteroppgaver skrevet av studenter som har vært innom oss i Delta. Komiteen med ansvaret for å opprettholde dette arkivet heter FagKom, derav navnet. 
 
 ## Bidra med din oppgave
 
@@ -71,7 +71,7 @@ Neste skritt er å fylle inn det som faktisk skal stå på nettsiden. Vi har gjo
  - Sammendrag
  - Pdf
 
-Tittel og sammendrag fylles inn på den kanoniske måteen, mens for veileder må du passe på at det fylles inn på følgende måte:
+Tittel og sammendrag fylles inn på den kanoniske måten, mens for veileder må du passe på at det fylles inn på følgende måte:
 ```
 **Veileder:** [Gereon Quick]({{<ref "/veileder/gereon-quick">}}) 
 ```
