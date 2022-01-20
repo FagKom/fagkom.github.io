@@ -421,5 +421,14 @@
       <description>Kan du velge fysikk uten å vite hva det er?</description>
     </item>
     
+    <item>
+      <title>Odin Hoff Gardå</title>
+      <link>https://fagkom.github.io/posts/gardaa-odin-hoff-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/gardaa-odin-hoff-2/</guid>
+      <description>Multicomplexes and their spectral sequences</description>
+    </item>
+    
   </channel>
 </rss>
