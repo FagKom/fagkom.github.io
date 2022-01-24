@@ -6,7 +6,16 @@
     <description>Recent content in Veileder on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Markus Szymik</title>
+      <link>https://fagkom.github.io/veileder/markus-szymik/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/markus-szymik/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Jacob Linder</title>
       <link>https://fagkom.github.io/veileder/jacob-linder/</link>
@@ -292,15 +301,6 @@
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/louis-philippe-thibault/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Markus Szymik</title>
-      <link>https://fagkom.github.io/veileder/markus-szymik/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/markus-szymik/</guid>
       <description></description>
     </item>
     

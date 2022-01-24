@@ -6,7 +6,16 @@
     <description>Recent content in Fagfelt on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topologi</title>
+      <link>https://fagkom.github.io/fagfelt/topologi/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/topologi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Faststoff</title>
       <link>https://fagkom.github.io/fagfelt/faststoff/</link>
@@ -31,15 +40,6 @@
       <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/fagfelt/h%C3%B8yenergifysikk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Topologi</title>
-      <link>https://fagkom.github.io/fagfelt/topologi/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/fagfelt/topologi/</guid>
       <description></description>
     </item>
     

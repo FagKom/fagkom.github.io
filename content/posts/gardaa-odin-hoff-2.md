@@ -1,6 +1,6 @@
 ---
 title: "Odin Hoff Gardå"
-date: 2021-15-12
+date: 2021-12-15
 draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
 fagfelt: ["Topologi"]

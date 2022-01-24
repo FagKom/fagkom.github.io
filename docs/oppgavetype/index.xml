@@ -6,20 +6,11 @@
     <description>Recent content in Oppgavetype on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Fysikk</title>
-      <link>https://fagkom.github.io/oppgavetype/fysikk/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/oppgavetype/fysikk/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Masteroppgave</title>
       <link>https://fagkom.github.io/oppgavetype/masteroppgave/</link>
-      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/oppgavetype/masteroppgave/</guid>
       <description></description>
@@ -28,9 +19,18 @@
     <item>
       <title>Matematikk</title>
       <link>https://fagkom.github.io/oppgavetype/matematikk/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/oppgavetype/matematikk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fysikk</title>
+      <link>https://fagkom.github.io/oppgavetype/fysikk/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/oppgavetype/fysikk/</guid>
       <description></description>
     </item>
     
