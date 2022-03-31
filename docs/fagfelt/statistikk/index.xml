@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Simen Knutsen Furset</title>
+      <link>https://fagkom.github.io/posts/furset-simen-knutsen/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/furset-simen-knutsen/</guid>
+      <description>Stationary Gaussian stochastic processes</description>
+    </item>
+    
+    <item>
       <title>Emma Sofie Skarstein</title>
       <link>https://fagkom.github.io/posts/skarstein-emma-sofie-2/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
@@ -41,6 +50,15 @@
       
       <guid>https://fagkom.github.io/posts/matre-andreas/</guid>
       <description>Linear regression for survey data</description>
+    </item>
+    
+    <item>
+      <title>Louise Bauer-Nilsen</title>
+      <link>https://fagkom.github.io/posts/bauer-nilsen-louise/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/bauer-nilsen-louise/</guid>
+      <description>Analysing nested data with multilevel models</description>
     </item>
     
     <item>

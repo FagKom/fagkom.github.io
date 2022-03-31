@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Symplektisk topologi on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/symplektisk-topologi/</link>
+    <description>Recent content in Symplektisk topologi on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/symplektisk-topologi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Trygve Poppe Oldervoll</title>
+      <link>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</guid>
+      <description>The Arnold conjecture</description>
+    </item>
+    
+  </channel>
+</rss>

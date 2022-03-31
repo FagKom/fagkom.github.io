@@ -3,8 +3,8 @@ title: "Magnus Ringerud"
 date: 2019-06-01
 draft: false
 oppgavetype: ["Masteroppgave","Matematikk"]
-fagfelt: ["Algebra"]
-tags: ["Kryptografi"]
+fagfelt: ["Kryptografi"]
+tags: ["Flettegrupper"]
 veileder: ["Kristian Gjøsteen"]
 math: true 
 summary: "WalnutDSA: Another attempt at braid group cryptography"

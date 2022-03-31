@@ -3,8 +3,8 @@ title: "Magnus Ringerud"
 date: 2017-06-01
 draft: false
 oppgavetype: ["Bacheloroppgave","Matematikk"]
-fagfelt: ["Algebra"]
-tags: ["Kryptografi","Elliptiske kurver"]
+fagfelt: ["Kryptografi"]
+tags: ["Elliptiske kurver"]
 veileder: ["Kristian Gjøsteen"]
 math: true 
 summary: "An elementary look at hyperelliptic curves and their usefulness in cryptography"

@@ -3,8 +3,8 @@ title: "Jørgen Juel"
 date: 2021-06-01
 draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
-fagfelt: ["Algebra"]
-tags: ["Kryptografi", "Isogenier", "Elliptiske kurver"]
+fagfelt: ["Kryptografi"]
+tags: ["Isogenier", "Elliptiske kurver"]
 veileder: ["Kristian Gjøsteen"]
 math: true
 summary: "Constructing isogenies between elliptic curves"

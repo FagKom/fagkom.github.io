@@ -3,8 +3,8 @@ title: "Jørgen Juel"
 date: 2019-06-01
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
-fagfelt: ["Algebra"]
-tags: ["Kryptografi", "Isogenier", "Elliptiske kurver"]
+fagfelt: ["Kryptografi"]
+tags: ["Isogenier", "Elliptiske kurver"]
 veileder: ["Kristian Gjøsteen"]
 math: true
 summary: "Kryptografi basert på isogenier mellom elliptiske kurver"

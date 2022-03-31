@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Sigurd Jordal</title>
+      <link>https://fagkom.github.io/posts/jordal-sigurd-2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/jordal-sigurd-2/</guid>
+      <description>Success-rate estimation for side channel analysis</description>
+    </item>
+    
+    <item>
       <title>Øyvind Muldal Taraldsen</title>
       <link>https://fagkom.github.io/posts/taraldsen-oyvind/</link>
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
@@ -116,6 +125,15 @@
     </item>
     
     <item>
+      <title>Katrine Fjose Johansen</title>
+      <link>https://fagkom.github.io/posts/johansen-katrine-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johansen-katrine-2/</guid>
+      <description>Dilithium, a quantum safe signature</description>
+    </item>
+    
+    <item>
       <title>Kristoffer Brakstad</title>
       <link>https://fagkom.github.io/posts/brakstad-kristoffer-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -140,6 +158,15 @@
       
       <guid>https://fagkom.github.io/posts/bergan-snorre/</guid>
       <description>Topological field theories of superconductor heterostructures</description>
+    </item>
+    
+    <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre-2/</guid>
+      <description>Finiteness obstruction in model categories</description>
     </item>
     
     <item>

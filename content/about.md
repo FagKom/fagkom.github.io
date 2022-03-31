@@ -22,4 +22,4 @@ Vi har også lagt inn muligheten til å se alle oppgavene som er skrevet under e
 
 ### Hvordan bidra? 
 
-Vi er alltid på utkikk etter nye oppgaver å legge i arkivet! Info om hvordan man kan legge oppgaven sin i arkivet finner du på [githubrepoet](https://github.com/FagKom/fagkom.github.io) for nettsiden. Ved eventuelle problemer eller spørsmål, ta kontakt med Deltas [FagKomSjef](mailto:delta.fagsjef@gmail.com), eller [arkivets opprettholder](mailto:torgeiraamboe@gmail.com).
+Vi er alltid på utkikk etter nye oppgaver å legge i arkivet! Info om hvordan man kan legge oppgaven sin i arkivet finner du på [githubrepoet](https://github.com/FagKom/fagkom.github.io) for nettsiden. Ved eventuelle problemer eller spørsmål, ta kontakt med Deltas [FagKomSjef](mailto:delta.fagsjef@gmail.com), eller [arkivets opprettholder](mailto:torgeiraamboe@gmail.com), Torgeir Aambø.

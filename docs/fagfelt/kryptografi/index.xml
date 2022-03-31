@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kryptografi on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/fagfelt/kryptografi/</link>
+    <description>Recent content in Kryptografi on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 01 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/kryptografi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sigurd Jordal</title>
+      <link>https://fagkom.github.io/posts/jordal-sigurd-2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/jordal-sigurd-2/</guid>
+      <description>Success-rate estimation for side channel analysis</description>
+    </item>
+    
+    <item>
+      <title>Jacob Sjødin</title>
+      <link>https://fagkom.github.io/posts/sjodin-jacob-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/sjodin-jacob-2/</guid>
+      <description>Privacy preserving computation with fully homomorphic encryption</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen-2/</guid>
+      <description>Constructing isogenies between elliptic curves</description>
+    </item>
+    
+    <item>
+      <title>Katrine Fjose Johansen</title>
+      <link>https://fagkom.github.io/posts/johansen-katrine-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johansen-katrine-2/</guid>
+      <description>Dilithium, a quantum safe signature</description>
+    </item>
+    
+    <item>
+      <title>Jørgen Juel</title>
+      <link>https://fagkom.github.io/posts/juel-jorgen/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/juel-jorgen/</guid>
+      <description>Kryptografi basert på isogenier mellom elliptiske kurver</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus-2/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus-2/</guid>
+      <description>WalnutDSA: Another attempt at braid group cryptography</description>
+    </item>
+    
+    <item>
+      <title>Magnus Ringerud</title>
+      <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
+      <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
+    </item>
+    
+  </channel>
+</rss>

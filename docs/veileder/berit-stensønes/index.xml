@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berit Stensønes on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/berit-stens%C3%B8nes/</link>
+    <description>Recent content in Berit Stensønes on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/berit-stens%C3%B8nes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mathias Reiersen</title>
+      <link>https://fagkom.github.io/posts/reiersen-mathias/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/reiersen-mathias/</guid>
+      <description>Existence of fatou components in two complex variables</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,7 @@ date: 2019-06-01
 draft: false
 oppgavetype: ["Bacheloroppgave", "Matematikk"]
 fagfelt: ["Algebra"]
-tags: ["Kryptografi", "Sfærepakking", "Kodeteori"]
+tags: ["Sfærepakking", "Kodeteori"]
 veileder: ["Øystein Skarsæterhagen"]
 math: true
 summary: "Constructing the Leech lattice through the extended Golay code"

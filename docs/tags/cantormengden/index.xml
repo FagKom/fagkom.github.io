@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cantormengden on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/tags/cantormengden/</link>
+    <description>Recent content in Cantormengden on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/tags/cantormengden/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Max Lunde Hauge</title>
+      <link>https://fagkom.github.io/posts/hauge-max-lunde/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hauge-max-lunde/</guid>
+      <description>Cantor minimal systems</description>
+    </item>
+    
+  </channel>
+</rss>

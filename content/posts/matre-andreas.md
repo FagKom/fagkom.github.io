@@ -5,14 +5,14 @@ draft: false
 oppgavetype: ["Matematikk", "Bacheloroppgave"]
 fagfelt: ["Statistikk"]
 tags: [""]
-veileder: ["Geir-Arne Fuglestad"]
+veileder: ["Geir-Arne Fuglstad"]
 katex: true 
 summary: "Linear regression for survey data"
 ---
 
 **Tittel:** Linear regression for survey data
 
-**Veileder:** [Geir-Arne Fuglestad]({{<ref "/veileder/geir-arne-fuglestad" >}}) 
+**Veileder:** [Geir-Arne Fuglstad]({{<ref "/veileder/geir-arne-fuglstad" >}}) 
 
 **Sammendrag:** In this thesis we discuss how to do linear regression when the data is collected using a complex sampling design. We use a different paradigm from classical regression, where we assume an infinite population and that the response observed for each individual is random. Here, we instead acknowledge that the population is finite and assume the value of each individual is fixed and the randomness arises from which individuals are included in the sample. The major issues are accounting for different sampling designs to prevent bias and incorrect uncertainty estimates.
 

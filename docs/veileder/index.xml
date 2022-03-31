@@ -8,6 +8,15 @@
     <copyright> </copyright>
     <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Abigail Linton</title>
+      <link>https://fagkom.github.io/veileder/abigail-linton/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/abigail-linton/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Markus Szymik</title>
       <link>https://fagkom.github.io/veileder/markus-szymik/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -22,6 +31,24 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/jacob-linder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristian Gjøsteen</title>
+      <link>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martijn Stam</title>
+      <link>https://fagkom.github.io/veileder/martijn-stam/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/martijn-stam/</guid>
       <description></description>
     </item>
     
@@ -89,15 +116,6 @@
     </item>
     
     <item>
-      <title>Kristian Gjøsteen</title>
-      <link>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/kristian-gj%C3%B8steen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Øyvind Solberg</title>
       <link>https://fagkom.github.io/veileder/%C3%B8yvind-solberg/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -116,11 +134,29 @@
     </item>
     
     <item>
+      <title>Eduardo Ortega Esparza</title>
+      <link>https://fagkom.github.io/veileder/eduardo-ortega-esparza/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/eduardo-ortega-esparza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Frans Leuf</title>
       <link>https://fagkom.github.io/veileder/frans-leuf/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/frans-leuf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geir-Arne Fuglstad</title>
+      <link>https://fagkom.github.io/veileder/geir-arne-fuglstad/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/geir-arne-fuglstad/</guid>
       <description></description>
     </item>
     
@@ -233,11 +269,29 @@
     </item>
     
     <item>
-      <title>Geir-Arne Fuglestad</title>
-      <link>https://fagkom.github.io/veileder/geir-arne-fuglestad/</link>
+      <title>Berit Stensønes</title>
+      <link>https://fagkom.github.io/veileder/berit-stens%C3%B8nes/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/veileder/geir-arne-fuglestad/</guid>
+      <guid>https://fagkom.github.io/veileder/berit-stens%C3%B8nes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kristian Seip</title>
+      <link>https://fagkom.github.io/veileder/kristian-seip/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/kristian-seip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marius Thaule</title>
+      <link>https://fagkom.github.io/veileder/marius-thaule/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/veileder/marius-thaule/</guid>
       <description></description>
     </item>
     
@@ -355,15 +409,6 @@
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/veileder/alex-hansen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kristian Seip</title>
-      <link>https://fagkom.github.io/veileder/kristian-seip/</link>
-      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/veileder/kristian-seip/</guid>
       <description></description>
     </item>
     

@@ -17,6 +17,24 @@
     </item>
     
     <item>
+      <title>Sigve Lysne</title>
+      <link>https://fagkom.github.io/posts/lysne-sigve/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lysne-sigve/</guid>
+      <description>Homologies on path complexes</description>
+    </item>
+    
+    <item>
+      <title>Sigurd Jordal</title>
+      <link>https://fagkom.github.io/posts/jordal-sigurd-2/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/jordal-sigurd-2/</guid>
+      <description>Success-rate estimation for side channel analysis</description>
+    </item>
+    
+    <item>
       <title>Endre Sørmo Rundsveen</title>
       <link>https://fagkom.github.io/posts/rundsveen-endre-sormo/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
@@ -80,6 +98,15 @@
     </item>
     
     <item>
+      <title>Katrine Fjose Johansen</title>
+      <link>https://fagkom.github.io/posts/johansen-katrine-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johansen-katrine-2/</guid>
+      <description>Dilithium, a quantum safe signature</description>
+    </item>
+    
+    <item>
       <title>Kristoffer Brakstad</title>
       <link>https://fagkom.github.io/posts/brakstad-kristoffer-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -98,12 +125,30 @@
     </item>
     
     <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre-2/</guid>
+      <description>Finiteness obstruction in model categories</description>
+    </item>
+    
+    <item>
       <title>Torgeir Aambø</title>
       <link>https://fagkom.github.io/posts/aamboe-torgeir-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/aamboe-torgeir-2/</guid>
       <description>On formal DG-algebras</description>
+    </item>
+    
+    <item>
+      <title>Anders Krøger Evensen</title>
+      <link>https://fagkom.github.io/posts/evensen-anders-kroeger/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/evensen-anders-kroeger/</guid>
+      <description>Morse theory applied to the unitary group</description>
     </item>
     
     <item>
@@ -161,6 +206,15 @@
     </item>
     
     <item>
+      <title>Max Lunde Hauge</title>
+      <link>https://fagkom.github.io/posts/hauge-max-lunde/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/hauge-max-lunde/</guid>
+      <description>Cantor minimal systems</description>
+    </item>
+    
+    <item>
       <title>Nora Røhnebæk Aasen</title>
       <link>https://fagkom.github.io/posts/aasen-nora-rohnebaek/</link>
       <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
@@ -176,6 +230,24 @@
       
       <guid>https://fagkom.github.io/posts/sorli-preben/</guid>
       <description>Sheaf cohomology and duality</description>
+    </item>
+    
+    <item>
+      <title>Simen Knutsen Furset</title>
+      <link>https://fagkom.github.io/posts/furset-simen-knutsen/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/furset-simen-knutsen/</guid>
+      <description>Stationary Gaussian stochastic processes</description>
+    </item>
+    
+    <item>
+      <title>Tallak Manum</title>
+      <link>https://fagkom.github.io/posts/manum-tallak/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/manum-tallak/</guid>
+      <description>A homological approach to the Poincaré-Birkhoff-Witt theorem</description>
     </item>
     
     <item>
@@ -215,15 +287,6 @@
     </item>
     
     <item>
-      <title>Ole Martin Edstrøm</title>
-      <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
-      <description>Elliptiske kurver over de rasjonale tallene</description>
-    </item>
-    
-    <item>
       <title>Therese Strand</title>
       <link>https://fagkom.github.io/posts/strand-therese/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
@@ -242,12 +305,66 @@
     </item>
     
     <item>
+      <title>Erling Arnold Svela</title>
+      <link>https://fagkom.github.io/posts/svela-erling-arnold/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/svela-erling-arnold/</guid>
+      <description>Den Cramér-stokastiske modellen for primtala</description>
+    </item>
+    
+    <item>
+      <title>Håkon Skjalg Selland Johnstuen</title>
+      <link>https://fagkom.github.io/posts/johnstuen-haakon/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johnstuen-haakon/</guid>
+      <description>Topologiske kvantefeltteoriar og koplingar til kommutative frobeniusalgebraar</description>
+    </item>
+    
+    <item>
+      <title>Louise Bauer-Nilsen</title>
+      <link>https://fagkom.github.io/posts/bauer-nilsen-louise/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/bauer-nilsen-louise/</guid>
+      <description>Analysing nested data with multilevel models</description>
+    </item>
+    
+    <item>
+      <title>Mathias Reiersen</title>
+      <link>https://fagkom.github.io/posts/reiersen-mathias/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/reiersen-mathias/</guid>
+      <description>Existence of fatou components in two complex variables</description>
+    </item>
+    
+    <item>
+      <title>Ole Martin Edstrøm</title>
+      <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
+      <description>Elliptiske kurver over de rasjonale tallene</description>
+    </item>
+    
+    <item>
       <title>Sarah May Instanes</title>
       <link>https://fagkom.github.io/posts/instanes-sarah/</link>
       <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/instanes-sarah/</guid>
       <description>Faktorisering i Hardy-rom</description>
+    </item>
+    
+    <item>
+      <title>Trygve Poppe Oldervoll</title>
+      <link>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</guid>
+      <description>The Arnold conjecture</description>
     </item>
     
     <item>

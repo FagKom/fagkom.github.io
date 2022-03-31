@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Geir-Arne Fuglstad on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/geir-arne-fuglstad/</link>
+    <description>Recent content in Geir-Arne Fuglstad on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Thu, 20 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/geir-arne-fuglstad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simen Knutsen Furset</title>
+      <link>https://fagkom.github.io/posts/furset-simen-knutsen/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/furset-simen-knutsen/</guid>
+      <description>Stationary Gaussian stochastic processes</description>
+    </item>
+    
+    <item>
+      <title>Andreas Matre</title>
+      <link>https://fagkom.github.io/posts/matre-andreas/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/matre-andreas/</guid>
+      <description>Linear regression for survey data</description>
+    </item>
+    
+    <item>
+      <title>Louise Bauer-Nilsen</title>
+      <link>https://fagkom.github.io/posts/bauer-nilsen-louise/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/bauer-nilsen-louise/</guid>
+      <description>Analysing nested data with multilevel models</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -44,24 +44,6 @@
     </item>
     
     <item>
-      <title>Jacob Sjødin</title>
-      <link>https://fagkom.github.io/posts/sjodin-jacob-2/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/sjodin-jacob-2/</guid>
-      <description>Privacy preserving computation with fully homomorphic encryption</description>
-    </item>
-    
-    <item>
-      <title>Jørgen Juel</title>
-      <link>https://fagkom.github.io/posts/juel-jorgen-2/</link>
-      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/juel-jorgen-2/</guid>
-      <description>Constructing isogenies between elliptic curves</description>
-    </item>
-    
-    <item>
       <title>Kristoffer Brakstad</title>
       <link>https://fagkom.github.io/posts/brakstad-kristoffer-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -118,7 +100,7 @@
     <item>
       <title>Ole Martin Edstrøm</title>
       <link>https://fagkom.github.io/posts/edstoem-ole-martin/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/edstoem-ole-martin/</guid>
       <description>Elliptiske kurver over de rasjonale tallene</description>
@@ -188,15 +170,6 @@
     </item>
     
     <item>
-      <title>Jørgen Juel</title>
-      <link>https://fagkom.github.io/posts/juel-jorgen/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/juel-jorgen/</guid>
-      <description>Kryptografi basert på isogenier mellom elliptiske kurver</description>
-    </item>
-    
-    <item>
       <title>Kamilla Weka</title>
       <link>https://fagkom.github.io/posts/weka-kamilla/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
@@ -230,15 +203,6 @@
       
       <guid>https://fagkom.github.io/posts/saele-lars/</guid>
       <description>Tapetgrupper</description>
-    </item>
-    
-    <item>
-      <title>Magnus Ringerud</title>
-      <link>https://fagkom.github.io/posts/ringerud-magnus-2/</link>
-      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/ringerud-magnus-2/</guid>
-      <description>WalnutDSA: Another attempt at braid group cryptography</description>
     </item>
     
     <item>
@@ -293,15 +257,6 @@
       
       <guid>https://fagkom.github.io/posts/kaspersen-eiolf/</guid>
       <description>Eksakte kategorier</description>
-    </item>
-    
-    <item>
-      <title>Magnus Ringerud</title>
-      <link>https://fagkom.github.io/posts/ringerud-magnus/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/posts/ringerud-magnus/</guid>
-      <description>An elementary look at hyperelliptic curves and their usefulness in cryptography</description>
     </item>
     
     <item>

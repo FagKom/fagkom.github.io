@@ -3,8 +3,8 @@ title: "Jacob Sjødin"
 date: 2021-06-01
 draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
-fagfelt: ["Algebra"]
-tags: ["Kryptografi", "Homomorf kryptering"]
+fagfelt: ["Kryptografi"]
+tags: ["Homomorf kryptering"]
 veileder: ["Kristian Gjøsteen"]
 math: true
 summary: "Privacy preserving computation with fully homomorphic encryption"

@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Sigve Lysne</title>
+      <link>https://fagkom.github.io/posts/lysne-sigve/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lysne-sigve/</guid>
+      <description>Homologies on path complexes</description>
+    </item>
+    
+    <item>
       <title>Anders Alexander andersen</title>
       <link>https://fagkom.github.io/posts/andersen-anders-alexander-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
@@ -26,12 +35,30 @@
     </item>
     
     <item>
+      <title>Sverre Myhre Lien</title>
+      <link>https://fagkom.github.io/posts/lien-sverre-myhre-2/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/lien-sverre-myhre-2/</guid>
+      <description>Finiteness obstruction in model categories</description>
+    </item>
+    
+    <item>
       <title>Torgeir Aambø</title>
       <link>https://fagkom.github.io/posts/aamboe-torgeir-2/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/posts/aamboe-torgeir-2/</guid>
       <description>On formal DG-algebras</description>
+    </item>
+    
+    <item>
+      <title>Anders Krøger Evensen</title>
+      <link>https://fagkom.github.io/posts/evensen-anders-kroeger/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/evensen-anders-kroeger/</guid>
+      <description>Morse theory applied to the unitary group</description>
     </item>
     
     <item>
@@ -50,6 +77,15 @@
       
       <guid>https://fagkom.github.io/posts/sorli-preben/</guid>
       <description>Sheaf cohomology and duality</description>
+    </item>
+    
+    <item>
+      <title>Tallak Manum</title>
+      <link>https://fagkom.github.io/posts/manum-tallak/</link>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/manum-tallak/</guid>
+      <description>A homological approach to the Poincaré-Birkhoff-Witt theorem</description>
     </item>
     
     <item>
@@ -77,6 +113,24 @@
       
       <guid>https://fagkom.github.io/posts/strand-therese/</guid>
       <description>Representativity results in motivic degree theory</description>
+    </item>
+    
+    <item>
+      <title>Håkon Skjalg Selland Johnstuen</title>
+      <link>https://fagkom.github.io/posts/johnstuen-haakon/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/johnstuen-haakon/</guid>
+      <description>Topologiske kvantefeltteoriar og koplingar til kommutative frobeniusalgebraar</description>
+    </item>
+    
+    <item>
+      <title>Trygve Poppe Oldervoll</title>
+      <link>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/oldervoll-trygve-poppe/</guid>
+      <description>The Arnold conjecture</description>
     </item>
     
     <item>
