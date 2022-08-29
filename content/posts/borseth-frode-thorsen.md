@@ -1,5 +1,5 @@
 ---
-title: "Frose Thorsen Børseth"
+title: "Frode Thorsen Børseth"
 date: 2018-05-01
 draft: false
 oppgavetype: ["Masteroppgave", "Fysikk"]

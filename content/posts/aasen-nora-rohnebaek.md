@@ -16,4 +16,4 @@ summary: "An introduction to copula theory"
 
 **Sammendrag:** The goal of this thesis is to give a brief introduction to a class of functions called copulas. A major part of the thesis is devoted to understanding and proving Sklar’s theorem. The remainder of the thesis presents other basic concepts and properties that are relevant to the studies of copulas.
 
-<iframe src="https://drive.google.com/file/d/1OivEn6HG8MpaRzqdeHiT1sHIdUOvVSkB/preview" width="700" height="980" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/190upXl40fm3fRf1Buao_aqu_YkEqTSW5/preview" width="700" height="980" allow="autoplay"></iframe>
