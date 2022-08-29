@@ -6,7 +6,16 @@
     <description>Recent content on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ole Martin Edstrøm</title>
+      <link>https://fagkom.github.io/posts/edstroem-ole-martin-2/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/edstroem-ole-martin-2/</guid>
+      <description>Zero-knowledge protocols for proof of correct shuffle using lattices</description>
+    </item>
+    
     <item>
       <title>Odin Hoff Gardå</title>
       <link>https://fagkom.github.io/posts/gardaa-odin-hoff-2/</link>
@@ -728,7 +737,7 @@
     </item>
     
     <item>
-      <title>Frose Thorsen Børseth</title>
+      <title>Frode Thorsen Børseth</title>
       <link>https://fagkom.github.io/posts/borseth-frode-thorsen/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
       
