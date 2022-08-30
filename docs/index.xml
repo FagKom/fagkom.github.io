@@ -6,7 +6,16 @@
     <description>Recent content on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isak Drage</title>
+      <link>https://fagkom.github.io/posts/drage-isak/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/drage-isak/</guid>
+      <description>An introduction to classical tilting theory</description>
+    </item>
+    
     <item>
       <title>Ole Martin Edstrøm</title>
       <link>https://fagkom.github.io/posts/edstroem-ole-martin-2/</link>

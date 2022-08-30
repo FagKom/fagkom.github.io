@@ -19,5 +19,5 @@ summary: "Elliptiske kurver over de rasjonale tallene"
 (2) Mordells Teorem, som sier at gruppen av rasjonale punkter på en elliptisk kurve er endelig generert.
 
 
-<iframe src="https://drive.google.com/file/d/16L7Z7jV3927TJioCv4q28vCh2aFdSFqS/preview" width="700" height="980" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/18nQfElda7Ft-Qv-hxT-m08RcNCH0B_mJ/preview" width="700" height="980" allow="autoplay"></iframe>
 

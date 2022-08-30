@@ -19,5 +19,5 @@ summary: "p-adiske tall"
 I seksjon 3 konstruerer jeg kroppen av $p$-adiske tall, og beskriver noen elementære egenskaper ved den. I seksjon 4 viser jeg et par helt enkle, men artige resultater, og seksjon 5 omhandler polynomringen over de $p$-adiske tallene.
 
 
-<iframe src="https://drive.google.com/file/d/1ae2WmvTsXjvYG8hc9vA-ht0627DyDbOs/preview" width="700" height="980" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1O2hdKYAGQWXoh9J5KmB4GaXZC3N9mcra/preview" width="700" height="980" allow="autoplay"></iframe>
 

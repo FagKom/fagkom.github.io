@@ -6,7 +6,16 @@
     <description>Recent content in Fagfelt on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/fagfelt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Algebra</title>
+      <link>https://fagkom.github.io/fagfelt/algebra/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/fagfelt/algebra/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Kryptografi</title>
       <link>https://fagkom.github.io/fagfelt/kryptografi/</link>
@@ -31,15 +40,6 @@
       <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/fagfelt/faststoff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Algebra</title>
-      <link>https://fagkom.github.io/fagfelt/algebra/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://fagkom.github.io/fagfelt/algebra/</guid>
       <description></description>
     </item>
     

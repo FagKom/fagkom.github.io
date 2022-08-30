@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mads Hustad Sandøy on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/mads-hustad-sand%C3%B8y/</link>
+    <description>Recent content in Mads Hustad Sandøy on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/mads-hustad-sand%C3%B8y/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isak Drage</title>
+      <link>https://fagkom.github.io/posts/drage-isak/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/drage-isak/</guid>
+      <description>An introduction to classical tilting theory</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,31 +6,31 @@
     <description>Recent content in Oppgavetype on Oppgavearkiv</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright> </copyright>
-    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/oppgavetype/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Masteroppgave</title>
-      <link>https://fagkom.github.io/oppgavetype/masteroppgave/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Bacheloroppgave</title>
+      <link>https://fagkom.github.io/oppgavetype/bacheloroppgave/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/oppgavetype/masteroppgave/</guid>
+      <guid>https://fagkom.github.io/oppgavetype/bacheloroppgave/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Matematikk</title>
       <link>https://fagkom.github.io/oppgavetype/matematikk/</link>
-      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0000</pubDate>
       
       <guid>https://fagkom.github.io/oppgavetype/matematikk/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bacheloroppgave</title>
-      <link>https://fagkom.github.io/oppgavetype/bacheloroppgave/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <title>Masteroppgave</title>
+      <link>https://fagkom.github.io/oppgavetype/masteroppgave/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://fagkom.github.io/oppgavetype/bacheloroppgave/</guid>
+      <guid>https://fagkom.github.io/oppgavetype/masteroppgave/</guid>
       <description></description>
     </item>
     
