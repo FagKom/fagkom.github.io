@@ -4,7 +4,7 @@ date: 2022-06-01
 draft: false
 oppgavetype: ["Masteroppgave", "Matematikk"]
 fagfelt: ["Analyse"]
-tags: ["Funksjonsanalyse", "Operatoralgebra"]
+tags: ["Funksjonalanalyse", "Operatoralgebra"]
 veileder: ["Eduard Ortega"]
 math: true
 summary: "Operator algebras on Wiener amalgam spaces"
