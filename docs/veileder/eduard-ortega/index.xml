@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eduard Ortega on Oppgavearkiv</title>
+    <link>https://fagkom.github.io/veileder/eduard-ortega/</link>
+    <description>Recent content in Eduard Ortega on Oppgavearkiv</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright> </copyright>
+    <lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fagkom.github.io/veileder/eduard-ortega/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Erling Arnold Svela</title>
+      <link>https://fagkom.github.io/posts/svela-erling-arnold-2/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://fagkom.github.io/posts/svela-erling-arnold-2/</guid>
+      <description>Operator algebras on Wiener amalgam spaces</description>
+    </item>
+    
+  </channel>
+</rss>
